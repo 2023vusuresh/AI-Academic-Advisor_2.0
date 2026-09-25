@@ -1,0 +1,156 @@
+source_workbook,source_sheet,source_row,minor,batch,course_code_raw,course_code,course_code_status,course_title_raw,course_title,lecture_hours,tutorial_hours,practical_hours,credits,semester,prerequisite_raw,prerequisite,prerequisite_status
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,3,Law Minor,2023,LAWM305,LAWM305,recorded,Regulating platform and Gig workers,Regulating platform and Gig workers,3.0,0.0,2.0,4.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,4,Law Minor,2023,LAWE200,LAWE200,recorded,Moral Philosophy and Justice,Moral Philosophy and Justice,2.0,0.0,0.0,2.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,5,Law Minor,2023,LAWC410,LAWC410,recorded,Introduction to Alternative Dispute Resolution Methods,Introduction to Alternative Dispute Resolution Methods,2.0,0.0,2.0,3.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,6,Law Minor,2023,LAWB210,LAWB210,recorded,Criminology and Victimology,Criminology and Victimology,2.0,2.0,0.0,4.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,7,Law Minor,2023,LAWM306,LAWM306,recorded,Law Relating to start-ups,Law Relating to start-ups,3.0,1.0,0.0,4.0,S7,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,8,Law Minor,2023,LAWE301,LAWE301,recorded,Intellectual Property Rights,Intellectual Property Rights,2.0,0.0,0.0,2.0,S7,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,11,Law Minor,2024,LAWP100,LAWP100,recorded,Political Science I,Political Science I,2.0,1.0,0.0,3.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,12,Law Minor,2024,LAWS301,LAWS301,recorded,Legal Methods,Legal Methods,2.0,0.0,2.0,3.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,13,Law Minor,2024,LAWM301,LAWM301,recorded,Constitution for Citizens,Constitution for Citizens,2.0,2.0,0.0,4.0,S4,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,14,Law Minor,2024,LAWM302,LAWM302,recorded,Basics of International Law,Basics of International Law,3.0,1.0,0.0,4.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,15,Law Minor,2024,,,missing_in_source,TBA,TBA,,,,10.0,,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,17,Law Minor,2025,LAWS301,LAWS301,recorded,Legal Methods,Legal Methods,2.0,0.0,2.0,3.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,18,Law Minor,2025,LAWP101,LAWP101,recorded,Introduction to Political science,Introduction to Political science,3.0,1.0,0.0,4.0,S2,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,19,Law Minor,2025,,,missing_in_source,TBA,TBA,,,,17.0,,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Law Minor,21,Law Minor,2026,,,missing_in_source,TBA,TBA,,,,24.0,,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,2,Design Minor,2022,CDES105,CDES105,recorded,Appreciating and Deconstructing Art and Media,Appreciating and Deconstructing Art and Media,3.0,0.0,0.0,3.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,3,Design Minor,2022,CDES203,CDES203,recorded,Motion Graphic Design,Motion Graphic Design,1.0,0.0,2.0,2.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,4,Design Minor,2022,CDES504,CDES504,recorded,Environment Design and Communication,Environment Design and Communication,1.0,1.0,0.0,2.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,5,Design Minor,2022,CDES704,CDES704,recorded,Integrative Studio VI- Exhibition/Museum,Integrative Studio VI- Exhibition/Museum,2.0,2.0,0.0,4.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,6,Design Minor,2022,CDES402,CDES402,recorded,Interaction Design- UI UX,Interaction Design- UI UX,1.0,3.0,0.0,4.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,7,Design Minor,2022,CDES216,CDES216,recorded,Drawing and Moving Images,Drawing and Moving Images,1.0,1.0,0.0,2.0,S7,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,8,Design Minor,2022,CDES712,CDES712,recorded,Designing Futures,Designing Futures,1.0,2.0,0.0,3.0,S7,"(CDES402-Interaction Design- UI UX), (CDES504- Environment Design and Communication)","(CDES402-Interaction Design- UI UX), (CDES504- Environment Design and Communication)",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,11,Design Minor,2023,CDES105,CDES105,recorded,Appreciating and Deconstructing Art and Media,Appreciating and Deconstructing Art and Media,3.0,0.0,0.0,3.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,12,Design Minor,2023,CDES702,CDES702,recorded,"Integrative Studio II- Sensemaking, Visualization","Integrative Studio II- Sensemaking, Visualization",2.0,2.0,0.0,4.0,S4,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,13,Design Minor,2023,CDES221,CDES221,recorded,Information Architecture and Design,Information Architecture and Design,2.0,2.0,0.0,4.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,14,Design Minor,2023,CDES219,CDES219,recorded,Elements of Sound,Elements of Sound,2.0,2.0,0.0,4.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,15,Design Minor,2023,CDES301,CDES301,recorded,Sketch to Story,Sketch to Story,2.0,2.0,0.0,4.0,S6,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,16,Design Minor,2023,CDES312,CDES312,recorded,Designing Futures,Designing Futures,2.0,2.0,2.0,5.0,S7,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,18,Design Minor,2024,CDES217,CDES217,recorded,Making with Reframed Media,Making with Reframed Media,2.0,3.0,0.0,4.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,19,Design Minor,2024,CDES218,CDES218,recorded,Frames and Frequencies,Frames and Frequencies,2.0,2.0,0.0,4.0,S4,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,20,Design Minor,2024,CDES221,CDES221,recorded,Information Architecture and Design,Information Architecture and Design,2.0,2.0,0.0,4.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,21,Design Minor,2024,CDES227,CDES227,recorded,Drawing and Moving Image,Drawing and Moving Image,2.0,2.0,0.0,4.0,S5,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Design Minor,25,Design Minor,2025,CDES217,CDES217,recorded,Making with Reframed Media,Making with Reframed Media,2.0,2.0,0.0,4.0,S3,NIL,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,2,Psychology,2022,PSYC201,PSYC201,recorded,Biological Psychology,Biological Psychology,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,3,Psychology,2022,PSYC202,PSYC202,recorded,Cognitive Psychology,Cognitive Psychology,2.0,2.0,0.0,4.0,S4,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,4,Psychology,2022,PSYC255,PSYC255,recorded,Psychopathology,Psychopathology,3.0,1.0,0.0,4.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,5,Psychology,2022,PSYC241,PSYC241,recorded,Social Psychology,Social Psychology,2.0,2.0,0.0,4.0,S6,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,6,Psychology,2022,PSYC204,PSYC204,recorded,Developmental Psychology,Developmental Psychology,3.0,1.0,0.0,4.0,S6,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,7,Psychology,2022,PSYC303,PSYC303,recorded,Psychological Testing and Measurement,Psychological Testing and Measurement,3.0,1.0,0.0,4.0,S7,"PSYC101, PSYC202, MATH131","PSYC101, PSYC202, MATH131",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,9,Psychology,2023,PSYC201,PSYC201,recorded,Biological Psychology,Biological Psychology,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,10,Psychology,2023,PSYC202,PSYC202,recorded,Cognitive Psychology,Cognitive Psychology,2.0,2.0,0.0,4.0,S4,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,11,Psychology,2023,PSYC104,PSYC104,recorded,Lifespan Development I,Lifespan Development I,3.0,1.0,0.0,4.0,S5,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,12,Psychology,2023,PSYC241,PSYC241,recorded,Social Psychology,Social Psychology,2.0,2.0,0.0,4.0,S6,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,13,Psychology,2023,PSYC306,PSYC306,recorded,Health Psychology,Health Psychology,3.0,1.0,0.0,4.0,S6,"PSYC101, PSYC201","PSYC101, PSYC201",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,14,Psychology,2023,PSYC255,PSYC255,recorded,Psychopathology,Psychopathology,3.0,1.0,0.0,4.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,16,Psychology,2024,PSYC201/ PSYC103,PSYC201/PSYC103,recorded,Biological Psychology/ Foundations of Psychology I,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,17,Psychology,2024,PSYC202,PSYC202,recorded,Cognitive Psychology,Cognitive Psychology,2.0,2.0,0.0,4.0,S4,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,18,Psychology,2024,PSYC241,PSYC241,recorded,Social Psychology,Social Psychology,2.0,2.0,0.0,4.0,S5,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,19,Psychology,2024,PSYC306,PSYC306,recorded,Health Psychology,Health Psychology,3.0,1.0,0.0,4.0,S6,"PSYC101, PSYC201","PSYC101, PSYC201",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,20,Psychology,2024,PSYC104,PSYC104,recorded,Lifespan Development I,Lifespan Development I,3.0,1.0,0.0,4.0,S6,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,21,Psychology,2024,PSYC255,PSYC255,recorded,Psychopathology,Psychopathology,3.0,1.0,0.0,4.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,23,Psychology,2025,PSYC201/ PSYC103,PSYC201/PSYC103,recorded,Biological Psychology/ Foundations of Psychology I,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,24,Psychology,2025,PSYC202,PSYC202,recorded,Cognitive Psychology,Cognitive Psychology,2.0,2.0,0.0,4.0,S4,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,25,Psychology,2025,PSYC241,PSYC241,recorded,Social Psychology,Social Psychology,2.0,2.0,0.0,4.0,S5,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,26,Psychology,2025,PSYC306,PSYC306,recorded,Health Psychology,Health Psychology,3.0,1.0,0.0,4.0,S6,"PSYC101, PSYC201","PSYC101, PSYC201",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,27,Psychology,2025,PSYC104,PSYC104,recorded,Lifespan Development I,Lifespan Development I,3.0,1.0,0.0,4.0,S6,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,28,Psychology,2025,PSYC255,PSYC255,recorded,Psychopathology,Psychopathology,3.0,1.0,0.0,4.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,30,Psychology,2026,PSYC201/ PSYC103,PSYC201/PSYC103,recorded,Biological Psychology/ Foundations of Psychology I,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,31,Psychology,2026,PSYC202,PSYC202,recorded,Cognitive Psychology,Cognitive Psychology,2.0,2.0,0.0,4.0,S4,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,32,Psychology,2026,PSYC241,PSYC241,recorded,Social Psychology,Social Psychology,2.0,2.0,0.0,4.0,S5,PSYC101,PSYC101,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,33,Psychology,2026,PSYC306,PSYC306,recorded,Health Psychology,Health Psychology,3.0,1.0,0.0,4.0,S6,"PSYC101, PSYC201","PSYC101, PSYC201",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,34,Psychology,2026,PSYC104,PSYC104,recorded,Lifespan Development I,Lifespan Development I,3.0,1.0,0.0,4.0,S6,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Psychology,35,Psychology,2026,PSYC255,PSYC255,recorded,Psychopathology,Psychopathology,3.0,1.0,0.0,4.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,2,Economics,2022,ECON201,ECON201,recorded,Microeconomics,Microeconomics,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,3,Economics,2022,ECON220,ECON220,recorded,Behavourial Economics,Behavourial Economics,3.0,1.0,0.0,4.0,S4,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,4,Economics,2022,ECON207,ECON207,recorded,Macroeconomics and Applicants to Indian Economy,Macroeconomics and Applicants to Indian Economy,3.0,1.0,0.0,4.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,5,Economics,2022,ECON413,ECON413,recorded,Industrial Economics,Industrial Economics,3.0,1.0,0.0,4.0,S6,"ECON201, ECON202/ ECON207","ECON201, ECON202/ECON207",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,6,Economics,2022,ECON325,ECON325,recorded,Public Economics,Public Economics,3.0,1.0,0.0,4.0,S6,"ECON201, ECON202/ ECON207","ECON201, ECON202/ECON207",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,7,Economics,2022,ECON316,ECON316,recorded,Digital Economics,Digital Economics,3.0,1.0,0.0,4.0,S7,ECON201,ECON201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,9,Economics,2023,ECON201,ECON201,recorded,Microeconomics,Microeconomics,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,10,Economics,2023,ECON209,ECON209,recorded,Macroeconomics I,Macroeconomics I,3.0,1.0,0.0,4.0,S4,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,11,Economics,2023,ECON316,ECON316,recorded,Digital Economics,Digital Economics,3.0,1.0,0.0,4.0,S5,ECON201,ECON201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,12,Economics,2023,ECON315,ECON315,recorded,Indian Economy,Indian Economy,3.0,1.0,0.0,4.0,S6,"ECON201, ECON209","ECON201, ECON209",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,13,Economics,2023,ECON322,ECON322,recorded,Economics of Health and Education,Economics of Health and Education,3.0,1.0,0.0,4.0,S6,ECON201,ECON201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,14,Economics,2023,ECON301,ECON301,recorded,International Economics,International Economics,3.0,1.0,0.0,4.0,S7,"ECON201, ECON202","ECON201, ECON202",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,16,Economics,2024,No Students,NOSTUDENTS,recorded,,,,,,,,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,18,Economics,2025,ECON208,ECON208,recorded,Microeconomics I,Microeconomics I,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,19,Economics,2025,ECON209,ECON209,recorded,Macroeconomics I,Macroeconomics I,3.0,1.0,0.0,4.0,S4,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,20,Economics,2025,ECON316,ECON316,recorded,Digital Economics,Digital Economics,3.0,1.0,0.0,4.0,S5,ECON201,ECON201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,21,Economics,2025,ECON315,ECON315,recorded,Indian Economy,Indian Economy,3.0,1.0,0.0,4.0,S6,"ECON201, ECON209","ECON201, ECON209",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,22,Economics,2025,ECON346,ECON346,recorded,Financial Economics,Financial Economics,3.0,1.0,0.0,4.0,S6,"ECON208, ECON209","ECON208, ECON209",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,23,Economics,2025,ECON301,ECON301,recorded,International Economics,International Economics,3.0,1.0,0.0,4.0,S7,"ECON201, ECON202","ECON201, ECON202",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,25,Economics,2026,ECON208,ECON208,recorded,Microeconomics I,Microeconomics I,3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,26,Economics,2026,ECON209,ECON209,recorded,Macroeconomics I,Macroeconomics I,3.0,1.0,0.0,4.0,S4,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,27,Economics,2026,ECON316,ECON316,recorded,Digital Economics,Digital Economics,3.0,1.0,0.0,4.0,S5,ECON201,ECON201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,28,Economics,2026,ECON315,ECON315,recorded,Indian Economy,Indian Economy,3.0,1.0,0.0,4.0,S6,"ECON201, ECON209","ECON201, ECON209",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,29,Economics,2026,ECON346,ECON346,recorded,Financial Economics,Financial Economics,3.0,1.0,0.0,4.0,S6,"ECON208, ECON209","ECON208, ECON209",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Economics,30,Economics,2026,ECON301,ECON301,recorded,International Economics,International Economics,3.0,1.0,0.0,4.0,S7,"ECON201, ECON202","ECON201, ECON202",recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,3,Finance,2022,DON'T KNOW,,not_recorded_in_source,Financial and Management Accounting (FAMA),Financial and Management Accounting (FAMA),2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,4,Finance,2022,FINA333,FINA333,recorded,Fiancial Institutions Markets and Services,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3.0,S4,MGMT208,MGMT208,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,5,Finance,2022,MGMT207,MGMT207,recorded,Corporate Finance,Corporate Finance,2.0,1.0,0.0,3.0,S5,FAMA,FAMA,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,6,Finance,2022,MGMT209,MGMT209,recorded,Financial Statement Anaylsis,Financial Statement Anaylsis,2.0,1.0,0.0,3.0,S6,FINA201,FINA201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,7,Finance,2022,MGMT210,MGMT210,recorded,Basics of INVESTMENT MANAGEMENT,Basics of INVESTMENT MANAGEMENT,2.0,2.0,0.0,4.0,S6,FINA333,FINA333,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,8,Finance,2022,MGMT213,MGMT213,recorded,Introduction To Fintech,Introduction To Fintech,1.0,1.0,0.0,2.0,S7,FINA333,FINA333,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,9,Finance,2022,MGMT323,MGMT323,recorded,Basics of Startup Finance,Basics of Startup Finance,3.0,1.0,0.0,4.0,S7,MGMT207,MGMT207,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,10,Finance,2022,MGMT203,MGMT203,recorded,Business Strategy Simulation,Business Strategy Simulation,0.0,0.0,0.0,2.0,S7,MKMT201/ MGMT207/ FINA201,MKMT201/MGMT207/FINA201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,14,Finance,2023,MGMT208,MGMT208,recorded,Introduction to Financial Accounting,Introduction to Financial Accounting,2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,15,Finance,2023,FINA333,FINA333,recorded,Fiancial Institutions Markets and Services,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3.0,S4,MGMT208,MGMT208,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,16,Finance,2023,MGMT207,MGMT207,recorded,Corporate Finance,Corporate Finance,2.0,1.0,0.0,3.0,S5,MGMT208,MGMT208,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,17,Finance,2023,MGMT209,MGMT209,recorded,Finacial Statement Analysis,Finacial Statement Analysis,2.0,1.0,0.0,3.0,S6,MGMT208,MGMT208,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,18,Finance,2023,MGMT210,MGMT210,recorded,Basics of Investment Management,Basics of Investment Management,2.0,2.0,0.0,4.0,S6,FINA333,FINA333,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,19,Finance,2023,MGMT323,MGMT323,recorded,Basics of Startup Finance,Basics of Startup Finance,3.0,1.0,0.0,4.0,S6,MGMT207,MGMT207,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,20,Finance,2023,MGMT213,MGMT213,recorded,Introduction To Fintech,Introduction To Fintech,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,21,Finance,2023,MGMT307,MGMT307,recorded,Strategy & Decision Making,Strategy & Decision Making,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,25,Finance,2024,MGMT208,MGMT208,recorded,Introduction to Financial Accounting,Introduction to Financial Accounting,2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,26,Finance,2024,FINA333,FINA333,recorded,Fiancial Institutions Markets and Services,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3.0,S4,MGMT208,MGMT208,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,27,Finance,2024,MGMT207,MGMT207,recorded,Corporate Finance,Corporate Finance,2.0,1.0,0.0,3.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,28,Finance,2024,MGMT209,MGMT209,recorded,Finacial Statement Analysis,Finacial Statement Analysis,2.0,1.0,0.0,3.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,29,Finance,2024,MGMT210,MGMT210,recorded,Basics of Investment Management,Basics of Investment Management,2.0,2.0,0.0,4.0,S6,FINA333,FINA333,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,30,Finance,2024,MGMT323,MGMT323,recorded,Basics of Startup Finance,Basics of Startup Finance,3.0,1.0,0.0,4.0,S6,MGMT207,MGMT207,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,31,Finance,2024,MGMT213,MGMT213,recorded,Introduction To Fintech,Introduction To Fintech,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,32,Finance,2024,MGMT307,MGMT307,recorded,Strategy & Decision Making,Strategy & Decision Making,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,36,Finance,2025,MGMT330,MGMT330,recorded,Introduction to Financial Accounting (R ),Introduction to Financial Accounting (R ),3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,37,Finance,2025,New,,new_code_pending,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),,,,4.0,S4,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,38,Finance,2025,New,,new_code_pending,Corporate Finance New Name,Corporate Finance New Name,,,,4.0,S5,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,39,Finance,2025,MGMT210,MGMT210,recorded,Basics of Investment Management,Basics of Investment Management,2.0,2.0,0.0,4.0,S6,FINA333,FINA333,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,40,Finance,2025,MGMT213,MGMT213,recorded,Introduction To Fintech,Introduction To Fintech,1.0,1.0,0.0,2.0,S6,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,41,Finance,2025,MGMT323,MGMT323,recorded,Basics of Startup Finance,Basics of Startup Finance,2.0,2.0,0.0,4.0,S7,MGMT207,MGMT207,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Finance,46,Finance,2026,MGMT330,MGMT330,recorded,Introduction to Financial Accounting (R),Introduction to Financial Accounting (R),3.0,1.0,0.0,4.0,S3,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,4,Marketing,2022,DON'T KNOW,,not_recorded_in_source,Marketing Management,Marketing Management,2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,5,Marketing,2022,MGMT302,MGMT302,recorded,Digital and Ecommerce Marketing,Digital and Ecommerce Marketing,2.0,2.0,0.0,4.0,S4,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,6,Marketing,2022,MGMT304,MGMT304,recorded,Integrated Marketing Communications,Integrated Marketing Communications,2.0,1.0,0.0,3.0,S5,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,7,Marketing,2022,MGMT314,MGMT314,recorded,Sales and distribution management,Sales and distribution management,2.0,2.0,0.0,4.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,8,Marketing,2022,MGMT320,MGMT320,recorded,Marketing Analytics,Marketing Analytics,1.0,1.0,0.0,2.0,S7,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,9,Marketing,2022,MGMT305,MGMT305,recorded,Services Marketing,Services Marketing,2.0,1.0,0.0,3.0,S7,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,10,Marketing,2022,MGMT211,MGMT211,recorded,Brand Management,Brand Management,2.0,1.0,0.0,3.0,S7,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,11,Marketing,2022,MGMT203,MGMT203,recorded,Business Strategy Simulation,Business Strategy Simulation,0.0,0.0,0.0,2.0,S7,MKMT201/ MGMT207/ FINA201,MKMT201/MGMT207/FINA201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,15,Marketing,2023,MKTG201,MKTG201,recorded,Marketing Management,Marketing Management,2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,16,Marketing,2023,MGMT302,MGMT302,recorded,Digital and Ecommerce Marketing,Digital and Ecommerce Marketing,2.0,2.0,0.0,4.0,S4,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,17,Marketing,2023,MGMT304,MGMT304,recorded,Integrated Marketing Communications,Integrated Marketing Communications,2.0,1.0,0.0,3.0,S5,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,18,Marketing,2023,MGMT314,MGMT314,recorded,Sales and Distribution Management,Sales and Distribution Management,2.0,2.0,0.0,4.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,19,Marketing,2023,MGMT305,MGMT305,recorded,Services Marketing,Services Marketing,2.0,1.0,0.0,3.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,20,Marketing,2023,MGMT211,MGMT211,recorded,Brand Management,Brand Management,2.0,1.0,0.0,3.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,21,Marketing,2023,MGMT320,MGMT320,recorded,Marketing Analytics,Marketing Analytics,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,22,Marketing,2023,MGMT307,MGMT307,recorded,Strategy & Decision Making,Strategy & Decision Making,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,26,Marketing,2024,MKTG201,MKTG201,recorded,Marketing Management,Marketing Management,2.0,1.0,0.0,3.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,27,Marketing,2024,MGMT302,MGMT302,recorded,Digital and Ecommerce Marketing,Digital and Ecommerce Marketing,2.0,2.0,0.0,4.0,S4,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,28,Marketing,2024,MGMT305,MGMT305,recorded,Services Marketing,Services Marketing,2.0,1.0,0.0,3.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,29,Marketing,2024,MGMT304,MGMT304,recorded,Integrated Marketing Communications,Integrated Marketing Communications,2.0,1.0,0.0,3.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,30,Marketing,2024,MGMT314,MGMT314,recorded,Sales and Distribution Management,Sales and Distribution Management,2.0,2.0,0.0,4.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,31,Marketing,2024,MGMT211,MGMT211,recorded,Brand Management,Brand Management,2.0,1.0,0.0,3.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,32,Marketing,2024,MGMT320,MGMT320,recorded,Marketing Analytics,Marketing Analytics,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,33,Marketing,2024,MGMT307,MGMT307,recorded,Strategy & Decision Making,Strategy & Decision Making,1.0,1.0,0.0,2.0,S7,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,37,Marketing,2025,MGMT328,MGMT328,recorded,Foundation of Marketing Management,Foundation of Marketing Management,2.0,2.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,38,Marketing,2025,MGMT302,MGMT302,recorded,Digital and Ecommerce Marketing,Digital and Ecommerce Marketing,2.0,1.0,0.0,4.0,S4,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,39,Marketing,2025,MGMT304,MGMT304,recorded,Integrated Marketing Communications,Integrated Marketing Communications,2.0,1.0,0.0,3.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,40,Marketing,2025,New,,new_code_pending,Services Marketing,Services Marketing,,,,4.0,S5,TBD,TBD,pending
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,41,Marketing,2025,MGMT314,MGMT314,recorded,Sales and Distribution Management,Sales and Distribution Management,2.0,2.0,0.0,4.0,S6,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Marketing,46,Marketing,2026,MGMT328,MGMT328,recorded,Foundations of Marketing Management,Foundations of Marketing Management,2.0,2.0,0.0,4.0,S3,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,3,Start-up,2024,MGMT326,MGMT326,recorded,Product Development,Product Development,2.0,2.0,0.0,4.0,S4,MKTG201,MKTG201,recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,4,Start-up,2024,MGMT336,MGMT336,recorded,Design Thinking for Entrepreneurship,Design Thinking for Entrepreneurship,2.0,1.0,2.0,4.0,S5,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,9,Start-up,2025,MGMT330,MGMT330,recorded,Introduction to Financial Accounting (R ),Introduction to Financial Accounting (R ),3.0,1.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,10,Start-up,2025,MGMT328,MGMT328,recorded,Foundation of Marketing Management,Foundation of Marketing Management,2.0,2.0,0.0,4.0,S3,Nil,Nil,explicit_none
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,11,Start-up,2025,MGMT336,MGMT336,recorded,Design Thinking for Entrepreneurship,Design Thinking for Entrepreneurship,2.0,1.0,2.0,4.0,S5,,,not_recorded
+Minor_Courses_for_BTech_Students(3).xlsx,Start-up,12,Start-up,2025,MGMT213,MGMT213,recorded,Introduction To Fintech,Introduction To Fintech,1.0,1.0,0.0,2.0,S6,Nil,Nil,explicit_none

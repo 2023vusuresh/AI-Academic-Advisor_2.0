@@ -1,0 +1,359 @@
+course_code,course_title,credits,prerequisite,prerequisite_status,batch,source_type,source_sheet,source_row
+UCOR103,Communication Skills,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,3
+UCOR203,Leadership and Teamwork Skills,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,3
+UCOR205,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,3
+UCOR210,Critical Thinking,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,3
+UCOR104,Problem Solving with Design Thinking,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,4
+UCOR701,Community Engagement & Service Experience,1.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,4
+UCOR201,Introduction to Epistemology,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,4
+UCOR102,Introduction to writing,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,5
+UCOR106,Learning to Learn,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,5
+MATH201,Calculus,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,7
+MATH202,Probability Theory,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,7
+MTSC781,Sustainable Cities and Communities,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,7
+SLAD206,Human Values in Work and Life,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,7
+LANG101,Language,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,7
+COMP132,Design Workshop,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,8
+MTSC211,Sustainable Smart Materials,3.0,MTSC111,recorded,2022,semester_excel,Sem Spread BTECH-2022,8
+SLAD207,Foundation Seminar,1.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,8
+MTSC111,Materials for Smart Devices,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,9
+ENGL201,Academic Writing,3.0,UCOR102,recorded,2022,semester_excel,Sem Spread BTECH-2022,9
+MATH204,Linear Algebra,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,9
+DATA131,Visualizing Data for Story Telling,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,10
+PSYC101/ECON101,Introduction to Psychology/Introduction to Economics,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,11
+DATA130,Computational Thinking,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,12
+COMP201,Data Structures,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,12
+COMP203,Analysis of Algorithms,4.0,COMP201,recorded,2022,semester_excel,Sem Spread BTECH-2022,12
+COMP205,Object Oriented Programming,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,12
+COMP208,Networks,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,12
+COMP302,Internet of Things,2.0,"COMP132, COMP201, COMP206, COMP208, COMP301",recorded,2022,semester_excel,Sem Spread BTECH-2022,12
+MATH205,Statistics with R,3.0,MATH202,recorded,2022,semester_excel,Sem Spread BTECH-2022,13
+COMP202,Theoretical Computer Science,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,13
+COMP204,Digital Design and Computer Organization,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,13
+COMP207,Operating Systems,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,13
+COMP206,Microprocessors and Computer Architecture,4.0,"COMP204, COMP207",recorded,2022,semester_excel,Sem Spread BTECH-2022,13
+COMP301,Artificial Intelligence,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,14
+COMP209,Databases Management,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,15
+DATA201,Foundations to Data Science,3.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,16
+DATA202,Exploratory Data Analysis,3.0,"DATA201, MATH203",recorded,2022,semester_excel,Sem Spread BTECH-2022,16
+MATH301,Optimization Techniques for Data Science,4.0,MATH201,recorded,2022,semester_excel,Sem Spread BTECH-2022,16
+DATA301,Machine Learning,4.0,"DATA202, MATH301",recorded,2022,semester_excel,Sem Spread BTECH-2022,16
+DATA302,Deep Learning,4.0,DATA301,recorded,2022,semester_excel,Sem Spread BTECH-2022,16
+DATA207,Human Centric AI,2.0,COMP210/COMP301,recorded,2022,semester_excel,Sem Spread BTECH-2022,17
+MATH401/COMP401,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2 /Web Framework LTP: 2-0-4,4.0,NIL/NIL,recorded,2022,semester_excel,Sem Spread BTECH-2022,18
+DATA402/DATA406,SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework),4.0,DATA301/NIL,recorded,2022,semester_excel,Sem Spread BTECH-2022,18
+DATA403/COMP402,SPT-Course #3 (Natural Language Processing / Software Architecture and Deployments),4.0,"DATA302/COMP205, COMP401",recorded,2022,semester_excel,Sem Spread BTECH-2022,18
+COMP401,,,,not_recorded,2022,semester_excel,Sem Spread BTECH-2022,19
+DATA404,SPT-Course #4 (Multi Modal Learning / Cloud Computing),4.0,DATA302,recorded,2022,semester_excel,Sem Spread BTECH-2022,19
+DATA405,SPT-Course #5 (Reinforcement Learning/ Cognitive Computing),4.0,"MATH202, MATH204",recorded,2022,semester_excel,Sem Spread BTECH-2022,20
+DATA801,Summer Training/Internship,2.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,22
+DATA802,Interdisciplinary Project,4.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,22
+DATA803,Capstone Project/Industrial Internship,12.0,Nil,explicit_none,2022,semester_excel,Sem Spread BTECH-2022,22
+UCOR103,Communication Skills,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,3
+UCOR203,Leadership and Teamwork Skills,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,3
+UCOR205,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,3
+UCOR104,Problem Solving with Design Thinking,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,4
+UCOR701,Community Engagement & Service Experience,1.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,4
+UCOR102,Introduction to writing,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,5
+UCOR106,Learning to Learn,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,5
+UCOR201,Introduction to Epistemology,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,5
+MATH202,Probability Theory,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,7
+MATH201,Calculus,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,7
+MTSC781,Sustainable Cities and Communities,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,7
+COMP132,Design Workshop,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,8
+MTSC211,Sustainable Smart Materials,3.0,MTSC111,recorded,2023,semester_excel,Sem_Spread_2023,8
+MATH204,Linear Algebra,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,8
+MTSC111,Materials for Smart Devices,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,9
+ENGL201,Academic Writing,3.0,UCOR102,recorded,2023,semester_excel,Sem_Spread_2023,9
+PSYC101/ECON101,Introduction to Psychology/Introduction to Economics,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,10
+DATA131,Visualizing Data for Story Telling,2.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,11
+COMP201,Data Structures,4.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,12
+COMP203,Analysis of Algorithms,4.0,COMP201,recorded,2023,semester_excel,Sem_Spread_2023,12
+MATH205,Statistics with R,3.0,MATH202,recorded,2023,semester_excel,Sem_Spread_2023,13
+COMP202,Theoretical Computer Science,4.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,13
+MATH207,Research Methodology,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,14
+DATA201,Foundations to Data Science,3.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,16
+DATA202,Exploratory Data Analysis,3.0,"DATA201, MATH203",recorded,2023,semester_excel,Sem_Spread_2023,16
+DATA403,SPT-Course #3 (Natural Language Processing / Natural Language Processing),4.0,DATA302,recorded,2023,semester_excel,Sem_Spread_2023,18
+DATA404/COMP402,SPT-Course #4 (Multi Modal Learning/ Software Architecture and Deployments),4.0,"DATA302/COMP205, COMP401",recorded,2023,semester_excel,Sem_Spread_2023,19
+DATA408/COMP405,SPT-Course #5 Advanced Topics in Deep Learning LTP: 3-0-2/ Cloud &Cognitive Computing LTP: 2-0-4,4.0,DATA302,recorded,2023,semester_excel,Sem_Spread_2023,20
+DATA802,Interdisciplinary Project,4.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,22
+DATA803,Capstone Project/Industrial Internship,12.0,Nil,explicit_none,2023,semester_excel,Sem_Spread_2023,22
+UCOR106,Learning to Learn,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,3
+UCOR105,Communication and Leadership Skills,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,3
+UCOR205,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,3
+UCOR310,Critical Thinking,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,3
+UCOR104,Problem Solving with Design Thinking,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,4
+UCOR701,Community Engagement & Service Experience,1.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,4
+LAWS101,Fundamentals of Indian Constitution and Human Rights,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,4
+UCOR102,Introduction to writing,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,5
+MATH203,Probability and Statistics,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,7
+MATH201,Calculus,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,7
+MTSC781,Sustainable Cities and Communities,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,7
+SLAD206,Human Values in Work and Life,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,7
+LANG101,Kannada/ Language,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,7
+COMP132,Design Workshop,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,8
+MTSC211,Sustainable Smart Materials,3.0,MTSC111,recorded,2024,semester_excel,Sem_Spread_2024,8
+MATH204,Linear Algebra,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,8
+MTSC111,Materials for Smart Devices,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,9
+ENGL210,Academic Writing,2.0,UCOR102,recorded,2024,semester_excel,Sem_Spread_2024,9
+PSYC101/ECON101,Introduction to Psychology/Introduction to Economics,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,11
+COMP403,Cloud Computing,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,11
+DATA103,Programming in Python,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,12
+COMP201,Data Structures,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,12
+COMP203,Analysis of Algorithms,4.0,COMP201,recorded,2024,semester_excel,Sem_Spread_2024,12
+COMP209,Databases Management,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,12
+COMP208,Networks,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,12
+COMP302,Internet of Things,2.0,"COMP132, COMP201, COMP206, COMP208, COMP301",recorded,2024,semester_excel,Sem_Spread_2024,12
+DATA132,Data visualization and Storytelling,3.0,DATA103,recorded,2024,semester_excel,Sem_Spread_2024,13
+COMP202,Theoretical Computer Science,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,13
+COMP204,Digital Design and Computer Organization,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,13
+COMP207,Operating Systems,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,13
+COMP206,Microprocessors and Computer Architecture,4.0,"COMP204, COMP207",recorded,2024,semester_excel,Sem_Spread_2024,13
+COMP301,Artificial Intelligence,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,14
+COMP205,Object Oriented Programming,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,15
+DATA201,Foundations to Data Science,3.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,16
+DATA202,Exploratory Data Analysis,3.0,"DATA201, MATH203",recorded,2024,semester_excel,Sem_Spread_2024,16
+MATH301,Optimization Techniques for Data Science,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,16
+DATA301,Machine Learning,4.0,"DATA202, MATH301",recorded,2024,semester_excel,Sem_Spread_2024,16
+DATA302,Deep Learning,4.0,DATA301,recorded,2024,semester_excel,Sem_Spread_2024,16
+MATH206,Advanced Statistical Analysis and Research Methods with R,2.0,MATH203,recorded,2024,semester_excel,Sem_Spread_2024,17
+MATH401/COMP401,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2 /Web Framework LTP: 2-0-4,4.0,NIL/NIL,recorded,2024,semester_excel,Sem_Spread_2024,18
+DATA404/DATA406,SPT-Course #2-Multi Modal Learning/Big Data Framework,4.0,DATA302/NIL,recorded,2024,semester_excel,Sem_Spread_2024,18
+DATA403,SPT-Course #3 (Natural Language Processing / Natural Language Processing),4.0,DATA302,recorded,2024,semester_excel,Sem_Spread_2024,18
+DATA408/COMP402,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),4.0,"DATA302/COMP205, COMP401",recorded,2024,semester_excel,Sem_Spread_2024,19
+DATA405,SPT-Course #5 Reinforcement Learning/Reinforcement Learning,4.0,"MATH202, MATH204",recorded,2024,semester_excel,Sem_Spread_2024,20
+DATA801,Summer Training/Internship,2.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,23
+DATA802,Interdisciplinary Project,4.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,23
+DATA803,Capstone Project/Industrial Internship,12.0,Nil,explicit_none,2024,semester_excel,Sem_Spread_2024,23
+UCOR103,Communication Skills,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR111,Environmental Studies and Sustainability,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR207,Analytical Academic Writing,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR205,Socio-Cultural Perspectives on Indian Life,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR310,Critical Thinking,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR215,Humanistic Leadership Development,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,3
+UCOR106,Learning to Learn,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,4
+LAWS101,Fundamentals of Indian Constitution and Human Rights,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,4
+UCOR104,Problem Solving with Design Thinking,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,4
+UCOR701,Community Engagement & Service Experience,1.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,5
+SLAD206,Human Values in Work and Life,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,5
+MATH208,Multivariate Calculus,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,7
+MATH203,Probability and Statistics,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,7
+MATH209,Linear Algebra,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,7
+MTSC211,Sustainable Smart Materials,3.0,MTSC111,recorded,2025,semester_excel,Sem_Spread_2025,8
+MATH206,Advanced Statistical Analysis and Research Methods with R,2.0,MATH203,recorded,2025,semester_excel,Sem_Spread_2025,8
+MTSC111,Materials for Smart Devices,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,9
+COMP132,Design Workshop,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,9
+DATA103,Programming in Python,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,12
+COMP201,Data Structures,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,12
+COMP207,Operating Systems,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,12
+COMP206,Microprocessors and Computer Architecture,4.0,"COMP204, COMP207",recorded,2025,semester_excel,Sem_Spread_2025,12
+COMP204,Digital Design and Computer Organization,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,13
+DATA132,Data Visualization and Storytelling,3.0,DATA103,recorded,2025,semester_excel,Sem_Spread_2025,13
+COMP202,Theoretical Computer Science,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,13
+COMP208,Networks,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,13
+COMP209,Databases Management,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,14
+COMP301,Artificial Intelligence,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,14
+COMP302,Internet of Things,2.0,"COMP132, COMP201, COMP206, COMP208, COMP301",recorded,2025,semester_excel,Sem_Spread_2025,14
+COMP203,Analysis of Algorithms,4.0,COMP201,recorded,2025,semester_excel,Sem_Spread_2025,15
+COMP205,Object Oriented Programming,3.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,15
+DATA209,Advanced Exploratory Data Analysis,4.0,"DATA132, MATH203",recorded,2025,semester_excel,Sem_Spread_2025,16
+MATH301,Optimization Techniques for Data Science,4.0,MATH201,recorded,2025,semester_excel,Sem_Spread_2025,16
+DATA301,Machine Learning,4.0,"DATA206, MATH301",recorded,2025,semester_excel,Sem_Spread_2025,16
+DATA302,Deep Learning,4.0,DATA301,recorded,2025,semester_excel,Sem_Spread_2025,16
+DATA403,Natural Language Processing,4.0,DATA302,recorded,2025,semester_excel,Sem_Spread_2025,16
+MATH401/COMP401,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4,4.0,NIL/NIL,recorded,2025,semester_excel,Sem_Spread_2025,18
+DATA404/DATA406,SPT-Course #2-Multi Modal Learning/Big Data Framework,4.0,DATA302/NIL,recorded,2025,semester_excel,Sem_Spread_2025,18
+TBA/COMP405,SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing),4.0,TBA/NIL,recorded,2025,semester_excel,Sem_Spread_2025,18
+DATA408/COMP402,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),4.0,"DATA302/COMP205, COMP401",recorded,2025,semester_excel,Sem_Spread_2025,19
+DATA405,SPT-Course #5 Reinforcement Learning/Reinforcement Learning,4.0,"MATH202, MATH204",recorded,2025,semester_excel,Sem_Spread_2025,20
+MGMT101,Essentials of Business Management,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,21
+DATA802,Inter-Desciplinary Project,4.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,21
+PSCY102/ECON105,Introduction to Psychology/Principles of Economics,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,22
+DATA801,Summer Training/Internship,2.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,23
+DATA803,Capstone Project/ Industrial Internship,12.0,Nil,explicit_none,2025,semester_excel,Sem_Spread_2025,23
+UCOR107,Communication Skills,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,3
+UCOR111,Environmental Studies and Sustainability,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,3
+UCOR205,Socio-Cultural Perspectives on Indian Life,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,3
+UCOR310,Critical Thinking,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,3
+UCOR106,Learning to Learn,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,4
+LAWS101,Fundamentals of Indian Constitution and Human Rights,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,4
+UCOR104,Problem Solving with Design Thinking,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,4
+UCOR701,Community Engagement & Service Experience,1.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,5
+MATH208,Multivariate Calculus,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,7
+MATH203,Probability and Statistics,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,7
+MATH209,Linear Algebra,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,7
+MTSC211,Sustainable Smart Materials,3.0,MTSC111,recorded,2026,semester_excel,Sem_Spread_DS_2026,8
+MATH210,Advanced Statistical Analysis and Research Methods,3.0,MATH203,recorded,2026,semester_excel,Sem_Spread_DS_2026,8
+MTSC111,Materials for Smart Devices,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,9
+COMP133,Design Workshop,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,9
+DATA103,Programming in Python,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,12
+COMP201,Data Structures,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,12
+COMP202,Theoretical Computer Science,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,12
+COMP211,Operating Systems,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,12
+COMP206,Microprocessors and Computer Architecture,4.0,"COMP204, COMP207",recorded,2026,semester_excel,Sem_Spread_DS_2026,12
+COMP204,Digital Design and Computer Organization,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,13
+DATA132,Data Visualization and Storytelling,3.0,DATA103,recorded,2026,semester_excel,Sem_Spread_DS_2026,13
+COMP203,Analysis of Algorithms,4.0,COMP201,recorded,2026,semester_excel,Sem_Spread_DS_2026,13
+COMP208,Networks,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,13
+COMP209,Databases Management,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,14
+COMP301,Artificial Intelligence,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,14
+COMP302,Internet of Things,2.0,"COMP132, COMP201, COMP206, COMP208, COMP301",recorded,2026,semester_excel,Sem_Spread_DS_2026,14
+COMP205,Object Oriented Programming,3.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,15
+DATA209,Advanced Exploratory Data Analysis,4.0,"DATA132, MATH203",recorded,2026,semester_excel,Sem_Spread_DS_2026,16
+MATH301,Optimization Techniques for Data Science,4.0,MATH201,recorded,2026,semester_excel,Sem_Spread_DS_2026,16
+DATA301,Machine Learning,4.0,"DATA206, MATH301",recorded,2026,semester_excel,Sem_Spread_DS_2026,16
+DATA302,Deep Learning,4.0,DATA301,recorded,2026,semester_excel,Sem_Spread_DS_2026,16
+DATA403,Natural Language Processing,4.0,DATA302,recorded,2026,semester_excel,Sem_Spread_DS_2026,16
+MGMT101,Essentials of Business Management,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,21
+DATA802,Inter-Desciplinary Project,4.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,21
+PSYC105/ECON106,Introduction to Psychology/Principles of Economics,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,22
+DATA801,Summer Training/Internship,2.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,23
+DATA803,Capstone Project/ Industrial Internship,12.0,Nil,explicit_none,2026,semester_excel,Sem_Spread_DS_2026,23
+LAWM305,Regulating platform and Gig workers,4.0,Nil,explicit_none,2023,minor_excel,Law Minor,3
+LAWE200,Moral Philosophy and Justice,2.0,Nil,explicit_none,2023,minor_excel,Law Minor,4
+LAWC410,Introduction to Alternative Dispute Resolution Methods,3.0,Nil,explicit_none,2023,minor_excel,Law Minor,5
+LAWB210,Criminology and Victimology,4.0,Nil,explicit_none,2023,minor_excel,Law Minor,6
+LAWM306,Law Relating to start-ups,4.0,Nil,explicit_none,2023,minor_excel,Law Minor,7
+LAWE301,Intellectual Property Rights,2.0,Nil,explicit_none,2023,minor_excel,Law Minor,8
+LAWP100,Political Science I,3.0,Nil,explicit_none,2024,minor_excel,Law Minor,11
+LAWS301,Legal Methods,3.0,Nil,explicit_none,2024,minor_excel,Law Minor,12
+LAWM301,Constitution for Citizens,4.0,Nil,explicit_none,2024,minor_excel,Law Minor,13
+LAWM302,Basics of International Law,4.0,Nil,explicit_none,2024,minor_excel,Law Minor,14
+LAWS301,Legal Methods,3.0,Nil,explicit_none,2025,minor_excel,Law Minor,17
+LAWP101,Introduction to Political science,4.0,Nil,explicit_none,2025,minor_excel,Law Minor,18
+CDES105,Appreciating and Deconstructing Art and Media,3.0,Nil,explicit_none,2022,minor_excel,Design Minor,2
+CDES203,Motion Graphic Design,2.0,Nil,explicit_none,2022,minor_excel,Design Minor,3
+CDES504,Environment Design and Communication,2.0,Nil,explicit_none,2022,minor_excel,Design Minor,4
+CDES704,Integrative Studio VI- Exhibition/Museum,4.0,Nil,explicit_none,2022,minor_excel,Design Minor,5
+CDES402,Interaction Design- UI UX,4.0,Nil,explicit_none,2022,minor_excel,Design Minor,6
+CDES216,Drawing and Moving Images,2.0,Nil,explicit_none,2022,minor_excel,Design Minor,7
+CDES712,Designing Futures,3.0,"(CDES402-Interaction Design- UI UX), (CDES504- Environment Design and Communication)",recorded,2022,minor_excel,Design Minor,8
+CDES105,Appreciating and Deconstructing Art and Media,3.0,Nil,explicit_none,2023,minor_excel,Design Minor,11
+CDES702,"Integrative Studio II- Sensemaking, Visualization",4.0,Nil,explicit_none,2023,minor_excel,Design Minor,12
+CDES221,Information Architecture and Design,4.0,Nil,explicit_none,2023,minor_excel,Design Minor,13
+CDES219,Elements of Sound,4.0,Nil,explicit_none,2023,minor_excel,Design Minor,14
+CDES301,Sketch to Story,4.0,Nil,explicit_none,2023,minor_excel,Design Minor,15
+CDES312,Designing Futures,5.0,Nil,explicit_none,2023,minor_excel,Design Minor,16
+CDES217,Making with Reframed Media,4.0,Nil,explicit_none,2024,minor_excel,Design Minor,18
+CDES218,Frames and Frequencies,4.0,Nil,explicit_none,2024,minor_excel,Design Minor,19
+CDES221,Information Architecture and Design,4.0,Nil,explicit_none,2024,minor_excel,Design Minor,20
+CDES227,Drawing and Moving Image,4.0,Nil,explicit_none,2024,minor_excel,Design Minor,21
+CDES217,Making with Reframed Media,4.0,Nil,explicit_none,2025,minor_excel,Design Minor,25
+PSYC201,Biological Psychology,4.0,Nil,explicit_none,2022,minor_excel,Psychology,2
+PSYC202,Cognitive Psychology,4.0,PSYC101,recorded,2022,minor_excel,Psychology,3
+PSYC255,Psychopathology,4.0,Nil,explicit_none,2022,minor_excel,Psychology,4
+PSYC241,Social Psychology,4.0,PSYC101,recorded,2022,minor_excel,Psychology,5
+PSYC204,Developmental Psychology,4.0,PSYC101,recorded,2022,minor_excel,Psychology,6
+PSYC303,Psychological Testing and Measurement,4.0,"PSYC101, PSYC202, MATH131",recorded,2022,minor_excel,Psychology,7
+PSYC201,Biological Psychology,4.0,Nil,explicit_none,2023,minor_excel,Psychology,9
+PSYC202,Cognitive Psychology,4.0,PSYC101,recorded,2023,minor_excel,Psychology,10
+PSYC104,Lifespan Development I,4.0,PSYC101,recorded,2023,minor_excel,Psychology,11
+PSYC241,Social Psychology,4.0,PSYC101,recorded,2023,minor_excel,Psychology,12
+PSYC306,Health Psychology,4.0,"PSYC101, PSYC201",recorded,2023,minor_excel,Psychology,13
+PSYC255,Psychopathology,4.0,Nil,explicit_none,2023,minor_excel,Psychology,14
+PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,4.0,Nil,explicit_none,2024,minor_excel,Psychology,16
+PSYC202,Cognitive Psychology,4.0,PSYC101,recorded,2024,minor_excel,Psychology,17
+PSYC241,Social Psychology,4.0,PSYC101,recorded,2024,minor_excel,Psychology,18
+PSYC306,Health Psychology,4.0,"PSYC101, PSYC201",recorded,2024,minor_excel,Psychology,19
+PSYC104,Lifespan Development I,4.0,Nil,explicit_none,2024,minor_excel,Psychology,20
+PSYC255,Psychopathology,4.0,Nil,explicit_none,2024,minor_excel,Psychology,21
+PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,4.0,Nil,explicit_none,2025,minor_excel,Psychology,23
+PSYC202,Cognitive Psychology,4.0,PSYC101,recorded,2025,minor_excel,Psychology,24
+PSYC241,Social Psychology,4.0,PSYC101,recorded,2025,minor_excel,Psychology,25
+PSYC306,Health Psychology,4.0,"PSYC101, PSYC201",recorded,2025,minor_excel,Psychology,26
+PSYC104,Lifespan Development I,4.0,Nil,explicit_none,2025,minor_excel,Psychology,27
+PSYC255,Psychopathology,4.0,Nil,explicit_none,2025,minor_excel,Psychology,28
+PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,4.0,Nil,explicit_none,2026,minor_excel,Psychology,30
+PSYC202,Cognitive Psychology,4.0,PSYC101,recorded,2026,minor_excel,Psychology,31
+PSYC241,Social Psychology,4.0,PSYC101,recorded,2026,minor_excel,Psychology,32
+PSYC306,Health Psychology,4.0,"PSYC101, PSYC201",recorded,2026,minor_excel,Psychology,33
+PSYC104,Lifespan Development I,4.0,Nil,explicit_none,2026,minor_excel,Psychology,34
+PSYC255,Psychopathology,4.0,Nil,explicit_none,2026,minor_excel,Psychology,35
+ECON201,Microeconomics,4.0,Nil,explicit_none,2022,minor_excel,Economics,2
+ECON220,Behavourial Economics,4.0,Nil,explicit_none,2022,minor_excel,Economics,3
+ECON207,Macroeconomics and Applicants to Indian Economy,4.0,Nil,explicit_none,2022,minor_excel,Economics,4
+ECON413,Industrial Economics,4.0,"ECON201, ECON202/ECON207",recorded,2022,minor_excel,Economics,5
+ECON325,Public Economics,4.0,"ECON201, ECON202/ECON207",recorded,2022,minor_excel,Economics,6
+ECON316,Digital Economics,4.0,ECON201,recorded,2022,minor_excel,Economics,7
+ECON201,Microeconomics,4.0,Nil,explicit_none,2023,minor_excel,Economics,9
+ECON209,Macroeconomics I,4.0,Nil,explicit_none,2023,minor_excel,Economics,10
+ECON316,Digital Economics,4.0,ECON201,recorded,2023,minor_excel,Economics,11
+ECON315,Indian Economy,4.0,"ECON201, ECON209",recorded,2023,minor_excel,Economics,12
+ECON322,Economics of Health and Education,4.0,ECON201,recorded,2023,minor_excel,Economics,13
+ECON301,International Economics,4.0,"ECON201, ECON202",recorded,2023,minor_excel,Economics,14
+NOSTUDENTS,,,,not_recorded,2024,minor_excel,Economics,16
+ECON208,Microeconomics I,4.0,Nil,explicit_none,2025,minor_excel,Economics,18
+ECON209,Macroeconomics I,4.0,Nil,explicit_none,2025,minor_excel,Economics,19
+ECON316,Digital Economics,4.0,ECON201,recorded,2025,minor_excel,Economics,20
+ECON315,Indian Economy,4.0,"ECON201, ECON209",recorded,2025,minor_excel,Economics,21
+ECON346,Financial Economics,4.0,"ECON208, ECON209",recorded,2025,minor_excel,Economics,22
+ECON301,International Economics,4.0,"ECON201, ECON202",recorded,2025,minor_excel,Economics,23
+ECON208,Microeconomics I,4.0,Nil,explicit_none,2026,minor_excel,Economics,25
+ECON209,Macroeconomics I,4.0,Nil,explicit_none,2026,minor_excel,Economics,26
+ECON316,Digital Economics,4.0,ECON201,recorded,2026,minor_excel,Economics,27
+ECON315,Indian Economy,4.0,"ECON201, ECON209",recorded,2026,minor_excel,Economics,28
+ECON346,Financial Economics,4.0,"ECON208, ECON209",recorded,2026,minor_excel,Economics,29
+ECON301,International Economics,4.0,"ECON201, ECON202",recorded,2026,minor_excel,Economics,30
+FINA333,Fiancial Institutions Markets and Services,3.0,MGMT208,recorded,2022,minor_excel,Finance,4
+MGMT207,Corporate Finance,3.0,FAMA,recorded,2022,minor_excel,Finance,5
+MGMT209,Financial Statement Anaylsis,3.0,FINA201,recorded,2022,minor_excel,Finance,6
+MGMT210,Basics of INVESTMENT MANAGEMENT,4.0,FINA333,recorded,2022,minor_excel,Finance,7
+MGMT213,Introduction To Fintech,2.0,FINA333,recorded,2022,minor_excel,Finance,8
+MGMT323,Basics of Startup Finance,4.0,MGMT207,recorded,2022,minor_excel,Finance,9
+MGMT203,Business Strategy Simulation,2.0,MKMT201/MGMT207/FINA201,recorded,2022,minor_excel,Finance,10
+MGMT208,Introduction to Financial Accounting,3.0,Nil,explicit_none,2023,minor_excel,Finance,14
+FINA333,Fiancial Institutions Markets and Services,3.0,MGMT208,recorded,2023,minor_excel,Finance,15
+MGMT207,Corporate Finance,3.0,MGMT208,recorded,2023,minor_excel,Finance,16
+MGMT209,Finacial Statement Analysis,3.0,MGMT208,recorded,2023,minor_excel,Finance,17
+MGMT210,Basics of Investment Management,4.0,FINA333,recorded,2023,minor_excel,Finance,18
+MGMT323,Basics of Startup Finance,4.0,MGMT207,recorded,2023,minor_excel,Finance,19
+MGMT213,Introduction To Fintech,2.0,Nil,explicit_none,2023,minor_excel,Finance,20
+MGMT307,Strategy & Decision Making,2.0,Nil,explicit_none,2023,minor_excel,Finance,21
+MGMT208,Introduction to Financial Accounting,3.0,Nil,explicit_none,2024,minor_excel,Finance,25
+FINA333,Fiancial Institutions Markets and Services,3.0,MGMT208,recorded,2024,minor_excel,Finance,26
+MGMT207,Corporate Finance,3.0,Nil,explicit_none,2024,minor_excel,Finance,27
+MGMT209,Finacial Statement Analysis,3.0,Nil,explicit_none,2024,minor_excel,Finance,28
+MGMT210,Basics of Investment Management,4.0,FINA333,recorded,2024,minor_excel,Finance,29
+MGMT323,Basics of Startup Finance,4.0,MGMT207,recorded,2024,minor_excel,Finance,30
+MGMT213,Introduction To Fintech,2.0,Nil,explicit_none,2024,minor_excel,Finance,31
+MGMT307,Strategy & Decision Making,2.0,Nil,explicit_none,2024,minor_excel,Finance,32
+MGMT330,Introduction to Financial Accounting (R ),4.0,Nil,explicit_none,2025,minor_excel,Finance,36
+MGMT210,Basics of Investment Management,4.0,FINA333,recorded,2025,minor_excel,Finance,39
+MGMT213,Introduction To Fintech,2.0,Nil,explicit_none,2025,minor_excel,Finance,40
+MGMT323,Basics of Startup Finance,4.0,MGMT207,recorded,2025,minor_excel,Finance,41
+MGMT330,Introduction to Financial Accounting (R),4.0,,not_recorded,2026,minor_excel,Finance,46
+MGMT302,Digital and Ecommerce Marketing,4.0,MKTG201,recorded,2022,minor_excel,Marketing,5
+MGMT304,Integrated Marketing Communications,3.0,MKTG201,recorded,2022,minor_excel,Marketing,6
+MGMT314,Sales and distribution management,4.0,MKTG201,recorded,2022,minor_excel,Marketing,7
+MGMT320,Marketing Analytics,2.0,MKTG201,recorded,2022,minor_excel,Marketing,8
+MGMT305,Services Marketing,3.0,MKTG201,recorded,2022,minor_excel,Marketing,9
+MGMT211,Brand Management,3.0,MKTG201,recorded,2022,minor_excel,Marketing,10
+MGMT203,Business Strategy Simulation,2.0,MKMT201/MGMT207/FINA201,recorded,2022,minor_excel,Marketing,11
+MKTG201,Marketing Management,3.0,Nil,explicit_none,2023,minor_excel,Marketing,15
+MGMT302,Digital and Ecommerce Marketing,4.0,MKTG201,recorded,2023,minor_excel,Marketing,16
+MGMT304,Integrated Marketing Communications,3.0,MKTG201,recorded,2023,minor_excel,Marketing,17
+MGMT314,Sales and Distribution Management,4.0,MKTG201,recorded,2023,minor_excel,Marketing,18
+MGMT305,Services Marketing,3.0,MKTG201,recorded,2023,minor_excel,Marketing,19
+MGMT211,Brand Management,3.0,MKTG201,recorded,2023,minor_excel,Marketing,20
+MGMT320,Marketing Analytics,2.0,Nil,explicit_none,2023,minor_excel,Marketing,21
+MGMT307,Strategy & Decision Making,2.0,Nil,explicit_none,2023,minor_excel,Marketing,22
+MKTG201,Marketing Management,3.0,Nil,explicit_none,2024,minor_excel,Marketing,26
+MGMT302,Digital and Ecommerce Marketing,4.0,MKTG201,recorded,2024,minor_excel,Marketing,27
+MGMT305,Services Marketing,3.0,Nil,explicit_none,2024,minor_excel,Marketing,28
+MGMT304,Integrated Marketing Communications,3.0,Nil,explicit_none,2024,minor_excel,Marketing,29
+MGMT314,Sales and Distribution Management,4.0,MKTG201,recorded,2024,minor_excel,Marketing,30
+MGMT211,Brand Management,3.0,MKTG201,recorded,2024,minor_excel,Marketing,31
+MGMT320,Marketing Analytics,2.0,Nil,explicit_none,2024,minor_excel,Marketing,32
+MGMT307,Strategy & Decision Making,2.0,Nil,explicit_none,2024,minor_excel,Marketing,33
+MGMT328,Foundation of Marketing Management,4.0,Nil,explicit_none,2025,minor_excel,Marketing,37
+MGMT302,Digital and Ecommerce Marketing,4.0,MKTG201,recorded,2025,minor_excel,Marketing,38
+MGMT304,Integrated Marketing Communications,3.0,Nil,explicit_none,2025,minor_excel,Marketing,39
+MGMT314,Sales and Distribution Management,4.0,MKTG201,recorded,2025,minor_excel,Marketing,41
+MGMT328,Foundations of Marketing Management,4.0,,not_recorded,2026,minor_excel,Marketing,46
+MGMT326,Product Development,4.0,MKTG201,recorded,2024,minor_excel,Start-up,3
+MGMT336,Design Thinking for Entrepreneurship,4.0,Nil,explicit_none,2024,minor_excel,Start-up,4
+MGMT330,Introduction to Financial Accounting (R ),4.0,Nil,explicit_none,2025,minor_excel,Start-up,9
+MGMT328,Foundation of Marketing Management,4.0,Nil,explicit_none,2025,minor_excel,Start-up,10
+MGMT336,Design Thinking for Entrepreneurship,4.0,,not_recorded,2025,minor_excel,Start-up,11
+MGMT213,Introduction To Fintech,2.0,Nil,explicit_none,2025,minor_excel,Start-up,12
