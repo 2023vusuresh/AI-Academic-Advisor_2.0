@@ -1,7 +1,0 @@
-student_id,programme,batch,semester,completed_credits,minor,passed_courses,notes
-SYN001,BTech,2026,5,72,Finance,UCOR103; UCOR203; UCOR104,UCOR205 failed
-SYN002,BTech,2026,6,96,Psychology,UCOR103; UCOR203; UCOR104,No failed courses recorded
-SYN003,BTech,2025,7,120,Finance,UCOR103; UCOR203; UCOR205; UCOR310,No failed courses recorded
-SYN004,BTech,2026,5,72,Finance,UCOR103,History intentionally incomplete for follow-up testing
-SYN005,BTech,2025,7,118,Marketing,UCOR103,History intentionally sparse
-SYN006,BTech,2026,6,94,Economics,UCOR103,History intentionally sparse
