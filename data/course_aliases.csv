@@ -1,0 +1,181 @@
+course_id,alias,normalized_alias,canonical_title,course_code,source_tables
+C_111cd861a9,Academic Writing,academic writing,Academic Writing,ENGL201,"course_master,semester"
+C_24f53ac76a,Advanced Exploratory Data Analysis,advanced exploratory data analysis,Advanced Exploratory Data Analysis,DATA209,"course_master,semester"
+C_ab940ea7df,Advanced Statistical Analysis and Research Methods,advanced statistical analysis and research methods,Advanced Statistical Analysis and Research Methods,MATH210,"course_master,semester"
+C_93ca4b8b20,Advanced Statistical Analysis and Research Methods with R,advanced statistical analysis and research methods with r,Advanced Statistical Analysis and Research Methods with R,MATH206,"course_master,semester"
+C_249e2516ee,Analysis of Algorithms,analysis of algorithms,Analysis of Algorithms,COMP203,"course_master,semester"
+C_27794243da,Analytical Academic Writing,analytical academic writing,Analytical Academic Writing,UCOR207,"course_master,semester"
+C_213d8cb3ec,Appreciating and Deconstructing Art and Media,appreciating and deconstructing art and media,Appreciating and Deconstructing Art and Media,CDES105,minor
+C_21839c83f1,Artificial Intelligence,artificial intelligence,Artificial Intelligence,COMP301,"course_master,semester"
+C_9484d02987,Basics of INVESTMENT MANAGEMENT,basics of investment management,Basics of INVESTMENT MANAGEMENT,MGMT210,minor
+C_e28ea22d5c,Basics of International Law,basics of international law,Basics of International Law,LAWM302,minor
+C_9484d02987,Basics of Investment Management,basics of investment management,Basics of Investment Management,MGMT210,minor
+C_99c8da4bbf,Basics of Startup Finance,basics of startup finance,Basics of Startup Finance,MGMT323,minor
+C_4c6de8a044,Behavourial Economics,behavourial economics,Behavourial Economics,ECON220,minor
+C_c9fe37ae45,Biological Psychology,biological psychology,Biological Psychology,PSYC201,minor
+C_02c859931b,Biological Psychology/ Foundations of Psychology I,biological psychology foundations of psychology i,Biological Psychology/ Foundations of Psychology I,PSYC201/PSYC103,minor
+C_95b5385b3b,Brand Management,brand management,Brand Management,MGMT211,minor
+C_1150232dc1,Business Strategy Simulation,business strategy simulation,Business Strategy Simulation,MGMT203,minor
+C_786f20226c,Calculus,calculus,Calculus,MATH201,"course_master,semester"
+C_a8c06c4d55,Capstone Project/ Industrial Internship,capstone project industrial internship,Capstone Project/ Industrial Internship,DATA803,semester
+C_a8c06c4d55,Capstone Project/Industrial Internship,capstone project industrial internship,Capstone Project/Industrial Internship,DATA803,"course_master,semester"
+C_bbee6b1251,Cloud Computing,cloud computing,Cloud Computing,COMP403,"course_master,semester"
+C_c3d3753c1e,Cognitive Psychology,cognitive psychology,Cognitive Psychology,PSYC202,minor
+C_754def7c8a,Communication Skills,communication skills,Communication Skills,UCOR103,"course_master,semester"
+C_3f86f4f9f3,Communication and Leadership Skills,communication and leadership skills,Communication and Leadership Skills,UCOR105,"course_master,semester"
+C_f9b5e4aa3b,Community Engagement & Service Experience,community engagement service experience,Community Engagement & Service Experience,UCOR701,"course_master,semester"
+C_9f4165eb09,Compiler Design,compiler design,Compiler Design,TBA,semester
+C_1f1b6dd4b9,Computational Thinking,computational thinking,Computational Thinking,DATA130,"course_master,semester"
+C_7065130950,Constitution for Citizens,constitution for citizens,Constitution for Citizens,LAWM301,minor
+C_cc9c4e4d1d,Corporate Finance,corporate finance,Corporate Finance,MGMT207,minor
+C_7e33d402f9,Corporate Finance New Name,corporate finance new name,Corporate Finance New Name,NEW,minor
+C_78e0e1b958,Criminology and Victimology,criminology and victimology,Criminology and Victimology,LAWB210,minor
+C_d73813ec75,Critical Thinking,critical thinking,Critical Thinking,UCOR210,"course_master,semester"
+C_cb878abb91,Data Structures,data structures,Data Structures,COMP201,"course_master,semester"
+C_64becd5088,Data Visualization and Storytelling,data visualization and storytelling,Data Visualization and Storytelling,DATA132,semester
+C_64becd5088,Data visualization and Storytelling,data visualization and storytelling,Data visualization and Storytelling,DATA132,"course_master,semester"
+C_4ec0866649,Databases Management,databases management,Databases Management,COMP209,"course_master,semester"
+C_871183362f,Deep Learning,deep learning,Deep Learning,DATA302,"course_master,semester"
+C_1585f4f8dd,Design Thinking for Entrepreneurship,design thinking for entrepreneurship,Design Thinking for Entrepreneurship,MGMT336,minor
+C_810191a497,Design Workshop,design workshop,Design Workshop,COMP132,"course_master,semester"
+C_3b9a123a5f,Designing Futures,designing futures,Designing Futures,CDES712,minor
+C_1565c98b62,Developmental Psychology,developmental psychology,Developmental Psychology,PSYC204,minor
+C_6ed73628f0,Digital Design and Computer Organization,digital design and computer organization,Digital Design and Computer Organization,COMP204,"course_master,semester"
+C_e4dd25fc71,Digital Economics,digital economics,Digital Economics,ECON316,minor
+C_eb5c4db4ec,Digital and Ecommerce Marketing,digital and ecommerce marketing,Digital and Ecommerce Marketing,MGMT302,minor
+C_6e44223d58,Drawing and Moving Image,drawing and moving image,Drawing and Moving Image,CDES227,minor
+C_36bc02a2d9,Drawing and Moving Images,drawing and moving images,Drawing and Moving Images,CDES216,minor
+C_597ae14e26,Economics of Health and Education,economics of health and education,Economics of Health and Education,ECON322,minor
+C_dc2297bac9,Elements of Sound,elements of sound,Elements of Sound,CDES219,minor
+C_834567d437,Environment Design and Communication,environment design and communication,Environment Design and Communication,CDES504,minor
+C_cfc497a6a0,Environmental Studies and Sustainability,environmental studies and sustainability,Environmental Studies and Sustainability,UCOR111,"course_master,semester"
+C_41b8faaad7,Essentials of Business Management,essentials of business management,Essentials of Business Management,MGMT101,"course_master,semester"
+C_cb0e130bd4,Exploratory Data Analysis,exploratory data analysis,Exploratory Data Analysis,DATA202,"course_master,semester"
+C_33ec189421,Fiancial Institutions Markets and Services,fiancial institutions markets and services,Fiancial Institutions Markets and Services,FINA333,minor
+C_0b100c6acd,Finacial Statement Analysis,finacial statement analysis,Finacial Statement Analysis,MGMT209,minor
+C_c5c291c10a,Financial Economics,financial economics,Financial Economics,ECON346,minor
+C_12977f2270,GIVE NEW NAME,give new name,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),NEW,minor
+C_12977f2270,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),financial institutions markets services with fintech give new name,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),NEW,minor
+C_12977f2270,Financial Institutions Markets & Services with Fintech,financial institutions markets services with fintech,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),NEW,minor
+C_6512a70293,Financial Statement Anaylsis,financial statement anaylsis,Financial Statement Anaylsis,MGMT209,minor
+C_db3407b31f,Financial and Management Accounting (FAMA),financial and management accounting fama,Financial and Management Accounting (FAMA),,minor
+C_db3407b31f,FAMA,fama,Financial and Management Accounting (FAMA),,minor
+C_db3407b31f,Financial and Management Accounting,financial and management accounting,Financial and Management Accounting (FAMA),,minor
+C_75690c886f,Foundation Seminar,foundation seminar,Foundation Seminar,SLAD207,"course_master,semester"
+C_6e4ad97869,Foundation of Marketing Management,foundation of marketing management,Foundation of Marketing Management,MGMT328,minor
+C_84413b85db,Foundations of Marketing Management,foundations of marketing management,Foundations of Marketing Management,MGMT328,minor
+C_5f69da537f,Foundations to Data Science,foundations to data science,Foundations to Data Science,DATA201,"course_master,semester"
+C_9ab9bf69d8,Frames and Frequencies,frames and frequencies,Frames and Frequencies,CDES218,minor
+C_350181068d,Fundamentals of Indian Constitution and Human Rights,fundamentals of indian constitution and human rights,Fundamentals of Indian Constitution and Human Rights,LAWS101,"course_master,semester"
+C_72ab44e917,Health Psychology,health psychology,Health Psychology,PSYC306,minor
+C_bba4f44215,Human Centric AI,human centric ai,Human Centric AI,DATA207,"course_master,semester"
+C_6505c96d88,Human Values in Work and Life,human values in work and life,Human Values in Work and Life,SLAD206,"course_master,semester"
+C_88e95e1922,Humanistic Leadership Development,humanistic leadership development,Humanistic Leadership Development,UCOR215,"course_master,semester"
+C_c7c260bc72,Indian Economy,indian economy,Indian Economy,ECON315,minor
+C_6f461564fd,Industrial Economics,industrial economics,Industrial Economics,ECON413,minor
+C_2a540810c7,Information Architecture and Design,information architecture and design,Information Architecture and Design,CDES221,minor
+C_035881a3a1,Integrated Marketing Communications,integrated marketing communications,Integrated Marketing Communications,MGMT304,minor
+C_6bf53b712e,"Integrative Studio II- Sensemaking, Visualization",integrative studio ii sensemaking visualization,"Integrative Studio II- Sensemaking, Visualization",CDES702,minor
+C_633671655d,Integrative Studio VI- Exhibition/Museum,integrative studio vi exhibition museum,Integrative Studio VI- Exhibition/Museum,CDES704,minor
+C_258ce92290,Intellectual Property Rights,intellectual property rights,Intellectual Property Rights,LAWE301,minor
+C_b61a62e1a7,Inter-Desciplinary Project,inter desciplinary project,Inter-Desciplinary Project,DATA802,semester
+C_fc0c860205,Interaction Design- UI UX,interaction design ui ux,Interaction Design- UI UX,CDES402,minor
+C_849ebcf0bd,Interdisciplinary Project,interdisciplinary project,Interdisciplinary Project,DATA802,"course_master,semester"
+C_2c144cfe99,International Economics,international economics,International Economics,ECON301,minor
+C_39f6f53ec8,Internet of Things,internet of things,Internet of Things,COMP302,"course_master,semester"
+C_4ffe49d5dc,Introduction To Fintech,introduction to fintech,Introduction To Fintech,MGMT213,minor
+C_57c3b2bbf1,Introduction to Alternative Dispute Resolution Methods,introduction to alternative dispute resolution methods,Introduction to Alternative Dispute Resolution Methods,LAWC410,minor
+C_59279ed074,Introduction to Epistemology,introduction to epistemology,Introduction to Epistemology,UCOR201,"course_master,semester"
+C_eb059f1681,Introduction to Financial Accounting,introduction to financial accounting,Introduction to Financial Accounting,MGMT208,minor
+C_17c7dc91c8,Introduction to Financial Accounting (R ),introduction to financial accounting r,Introduction to Financial Accounting (R ),MGMT330,minor
+C_17c7dc91c8,R,r,Introduction to Financial Accounting (R ),MGMT330,minor
+C_17c7dc91c8,Introduction to Financial Accounting,introduction to financial accounting,Introduction to Financial Accounting (R ),MGMT330,minor
+C_17c7dc91c8,Introduction to Financial Accounting (R),introduction to financial accounting r,Introduction to Financial Accounting (R),MGMT330,minor
+C_17c7dc91c8,Introduction to Financial Accounting,introduction to financial accounting,Introduction to Financial Accounting (R),MGMT330,minor
+C_17c7dc91c8,R,r,Introduction to Financial Accounting (R),MGMT330,minor
+C_58422addb5,Introduction to Political science,introduction to political science,Introduction to Political science,LAWP101,minor
+C_34dcdf03c3,Introduction to Psychology/Introduction to Economics,introduction to psychology introduction to economics,Introduction to Psychology/Introduction to Economics,PSYC101/ECON101,"course_master,semester"
+C_beacdfd90d,Introduction to Psychology/Principles of Economics,introduction to psychology principles of economics,Introduction to Psychology/Principles of Economics,PSCY102/ECON105,"course_master,semester"
+C_e75135a183,Introduction to writing,introduction to writing,Introduction to writing,UCOR102,"course_master,semester"
+C_6f966912b7,Kannada/ Language,kannada language,Kannada/ Language,LANG101,semester
+C_e11523c5ff,Language,language,Language,LANG101,"course_master,semester"
+C_215debb95d,Law Relating to start-ups,law relating to start ups,Law Relating to start-ups,LAWM306,minor
+C_973833fe41,Leadership and Teamwork Skills,leadership and teamwork skills,Leadership and Teamwork Skills,UCOR203,"course_master,semester"
+C_64a79d30f3,Learning to Learn,learning to learn,Learning to Learn,UCOR106,"course_master,semester"
+C_79239bdb45,Legal Methods,legal methods,Legal Methods,LAWS301,minor
+C_52990ac5d4,Lifespan Development I,lifespan development i,Lifespan Development I,PSYC104,minor
+C_2b9762b737,Linear Algebra,linear algebra,Linear Algebra,MATH204,"course_master,semester"
+C_824efac09f,MLOps & Model Deployment,mlops model deployment,MLOps & Model Deployment,DATA303,"course_master,semester"
+C_dad3b4d79f,Machine Learning,machine learning,Machine Learning,DATA301,"course_master,semester"
+C_81a18e6999,Macroeconomics I,macroeconomics i,Macroeconomics I,ECON209,minor
+C_b9bad21068,Macroeconomics and Applicants to Indian Economy,macroeconomics and applicants to indian economy,Macroeconomics and Applicants to Indian Economy,ECON207,minor
+C_dcfc9d79d5,Making with Reframed Media,making with reframed media,Making with Reframed Media,CDES217,minor
+C_656dd53d0d,Marketing Analytics,marketing analytics,Marketing Analytics,MGMT320,minor
+C_5bf5c78e24,Marketing Management,marketing management,Marketing Management,MKTG201,minor
+C_cf4a4520b2,Materials for Smart Devices,materials for smart devices,Materials for Smart Devices,MTSC111,"course_master,semester"
+C_aacaf77bba,Microeconomics,microeconomics,Microeconomics,ECON201,minor
+C_b86818a456,Microeconomics I,microeconomics i,Microeconomics I,ECON208,minor
+C_1fd3035817,Microprocessors and Computer Architecture,microprocessors and computer architecture,Microprocessors and Computer Architecture,COMP206,"course_master,semester"
+C_c8d43958c2,Moral Philosophy and Justice,moral philosophy and justice,Moral Philosophy and Justice,LAWE200,minor
+C_517103d2ae,Motion Graphic Design,motion graphic design,Motion Graphic Design,CDES203,minor
+C_f80649f38f,Multivariate Calculus,multivariate calculus,Multivariate Calculus,MATH208,"course_master,semester"
+C_1cfc68a24e,Natural Language Processing,natural language processing,Natural Language Processing,DATA403,semester
+C_ec1fde8a67,Networks,networks,Networks,COMP208,"course_master,semester"
+C_6c830332bb,Object Oriented Programming,object oriented programming,Object Oriented Programming,COMP205,"course_master,semester"
+C_fd5f2829bb,Operating Systems,operating systems,Operating Systems,COMP207,"course_master,semester"
+C_c2dd5ea99d,Optimization Techniques for Data Science,optimization techniques for data science,Optimization Techniques for Data Science,MATH301,"course_master,semester"
+C_23d238c021,Political Science I,political science i,Political Science I,LAWP100,minor
+C_6cb128cbb8,Probability Theory,probability theory,Probability Theory,MATH202,"course_master,semester"
+C_b2a263edb8,Probability and Statistics,probability and statistics,Probability and Statistics,MATH203,"course_master,semester"
+C_0c304fc982,Problem Solving with Design Thinking,problem solving with design thinking,Problem Solving with Design Thinking,UCOR104,"course_master,semester"
+C_cf36258245,Product Development,product development,Product Development,MGMT326,minor
+C_ce01cd464f,Programming in Python,programming in python,Programming in Python,DATA103,"course_master,semester"
+C_12842083b7,Psychological Testing and Measurement,psychological testing and measurement,Psychological Testing and Measurement,PSYC303,minor
+C_e6fc4b2f2c,Psychopathology,psychopathology,Psychopathology,PSYC255,minor
+C_0ab656401e,Public Economics,public economics,Public Economics,ECON325,minor
+C_2e3071b72c,Regulating platform and Gig workers,regulating platform and gig workers,Regulating platform and Gig workers,LAWM305,minor
+C_ed6c06c9e2,Research Methodology,research methodology,Research Methodology,MATH207,"course_master,semester"
+C_99e5e34113,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2 /Web Framework LTP: 2-0-4,spt course 1 probabilistic graph models ltp 3 0 2 web framework ltp 2 0 4,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2 /Web Framework LTP: 2-0-4,MATH401/COMP401,"course_master,semester"
+C_99e5e34113,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4,spt course 1 probabilistic graph models ltp 3 0 2 web framework ltp 2 0 4,SPT-Course #1-Probabilistic Graph Models LTP: 3-0-2/Web Framework LTP: 2-0-4,MATH401/COMP401,semester
+C_2daeba584d,SPT-Course #2,spt course 2,SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework),DATA402/DATA406,"course_master,semester"
+C_2daeba584d,Advanced Visualization and Storytelling/Big Data Framework,advanced visualization and storytelling big data framework,SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework),DATA402/DATA406,"course_master,semester"
+C_2daeba584d,SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework),spt course 2 advanced visualization and storytelling big data framework,SPT-Course #2 (Advanced Visualization and Storytelling/Big Data Framework),DATA402/DATA406,"course_master,semester"
+C_923739699b,SPT-Course #2-Multi Modal Learning/Big Data Framework,spt course 2 multi modal learning big data framework,SPT-Course #2-Multi Modal Learning/Big Data Framework,DATA404/DATA406,"course_master,semester"
+C_8b8662b4c0,SPT-Course #2-Reinforcement Learning/Big Data Framework,spt course 2 reinforcement learning big data framework,SPT-Course #2-Reinforcement Learning/Big Data Framework,DATA405/DATA406,"course_master,semester"
+C_12e67ad3bb,SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing),spt course 3 image processing and computer vision cloud cognitive computing,SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing),TBA/COMP405,"course_master,semester"
+C_12e67ad3bb,Image Processing and Computer Vision/Cloud & Cognitive Computing,image processing and computer vision cloud cognitive computing,SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing),TBA/COMP405,"course_master,semester"
+C_12e67ad3bb,SPT-Course #3,spt course 3,SPT-Course #3 (Image Processing and Computer Vision/Cloud & Cognitive Computing),TBA/COMP405,"course_master,semester"
+C_44fef929e5,SPT-Course #3 (Natural Language Processing / Natural Language Processing),spt course 3 natural language processing natural language processing,SPT-Course #3 (Natural Language Processing / Natural Language Processing),DATA403,"course_master,semester"
+C_44fef929e5,SPT-Course #3,spt course 3,SPT-Course #3 (Natural Language Processing / Natural Language Processing),DATA403,"course_master,semester"
+C_44fef929e5,Natural Language Processing / Natural Language Processing,natural language processing natural language processing,SPT-Course #3 (Natural Language Processing / Natural Language Processing),DATA403,"course_master,semester"
+C_02d830bbe6,SPT-Course #3 (Natural Language Processing / Software Architecture and Deployments),spt course 3 natural language processing software architecture and deployments,SPT-Course #3 (Natural Language Processing / Software Architecture and Deployments),DATA403/COMP402,"course_master,semester"
+C_02d830bbe6,SPT-Course #3,spt course 3,SPT-Course #3 (Natural Language Processing / Software Architecture and Deployments),DATA403/COMP402,"course_master,semester"
+C_02d830bbe6,Natural Language Processing / Software Architecture and Deployments,natural language processing software architecture and deployments,SPT-Course #3 (Natural Language Processing / Software Architecture and Deployments),DATA403/COMP402,"course_master,semester"
+C_6a6e657ab3,Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4,advanced topics in deep learning ltp 3 0 2 software architecture and deployments ltp 2 0 4,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),DATA408/COMP402,"course_master,semester"
+C_6a6e657ab3,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),spt course 4 advanced topics in deep learning ltp 3 0 2 software architecture and deployments ltp 2 0 4,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),DATA408/COMP402,"course_master,semester"
+C_6a6e657ab3,SPT-Course #4,spt course 4,SPT-Course #4 (Advanced Topics in Deep Learning LTP: 3-0-2/ Software Architecture and Deployments LTP: 2-0-4),DATA408/COMP402,"course_master,semester"
+C_400c1fdb70,SPT-Course #4 (Multi Modal Learning / Cloud Computing),spt course 4 multi modal learning cloud computing,SPT-Course #4 (Multi Modal Learning / Cloud Computing),DATA404,"course_master,semester"
+C_400c1fdb70,Multi Modal Learning / Cloud Computing,multi modal learning cloud computing,SPT-Course #4 (Multi Modal Learning / Cloud Computing),DATA404,"course_master,semester"
+C_400c1fdb70,SPT-Course #4,spt course 4,SPT-Course #4 (Multi Modal Learning / Cloud Computing),DATA404,"course_master,semester"
+C_33deb51f0f,SPT-Course #4 (Multi Modal Learning/ Software Architecture and Deployments),spt course 4 multi modal learning software architecture and deployments,SPT-Course #4 (Multi Modal Learning/ Software Architecture and Deployments),DATA404/COMP402,"course_master,semester"
+C_33deb51f0f,SPT-Course #4,spt course 4,SPT-Course #4 (Multi Modal Learning/ Software Architecture and Deployments),DATA404/COMP402,"course_master,semester"
+C_33deb51f0f,Multi Modal Learning/ Software Architecture and Deployments,multi modal learning software architecture and deployments,SPT-Course #4 (Multi Modal Learning/ Software Architecture and Deployments),DATA404/COMP402,"course_master,semester"
+C_a0947bd13f,SPT-Course #5 (Reinforcement Learning/ Cognitive Computing),spt course 5 reinforcement learning cognitive computing,SPT-Course #5 (Reinforcement Learning/ Cognitive Computing),DATA405,"course_master,semester"
+C_a0947bd13f,Reinforcement Learning/ Cognitive Computing,reinforcement learning cognitive computing,SPT-Course #5 (Reinforcement Learning/ Cognitive Computing),DATA405,"course_master,semester"
+C_a0947bd13f,SPT-Course #5,spt course 5,SPT-Course #5 (Reinforcement Learning/ Cognitive Computing),DATA405,"course_master,semester"
+C_232e8629b9,SPT-Course #5 Advanced Topics in Deep Learning LTP: 3-0-2/ Cloud &Cognitive Computing LTP: 2-0-4,spt course 5 advanced topics in deep learning ltp 3 0 2 cloud cognitive computing ltp 2 0 4,SPT-Course #5 Advanced Topics in Deep Learning LTP: 3-0-2/ Cloud &Cognitive Computing LTP: 2-0-4,DATA408/COMP405,"course_master,semester"
+C_2019db7127,SPT-Course #5 Reinforcement Learning/Reinforcement Learning,spt course 5 reinforcement learning reinforcement learning,SPT-Course #5 Reinforcement Learning/Reinforcement Learning,DATA405,semester
+C_3ca396b1e2,Sales and Distribution Management,sales and distribution management,Sales and Distribution Management,MGMT314,minor
+C_3ca396b1e2,Sales and distribution management,sales and distribution management,Sales and distribution management,MGMT314,minor
+C_9219f6a184,Services Marketing,services marketing,Services Marketing,MGMT305,minor
+C_55c8bca7ff,Sketch to Story,sketch to story,Sketch to Story,CDES301,minor
+C_7bdfa03e21,Social Psychology,social psychology,Social Psychology,PSYC241,minor
+C_eca01a7263,Socio Cultural Perspectives on Indian Life-SPIL,socio cultural perspectives on indian life spil,Socio Cultural Perspectives on Indian Life-SPIL,UCOR205,"course_master,semester"
+C_b57a034837,Socio-Cultural Perspectives on Indian Life,socio cultural perspectives on indian life,Socio-Cultural Perspectives on Indian Life,UCOR205,semester
+C_d820217fa5,Statistics with R,statistics with r,Statistics with R,MATH205,"course_master,semester"
+C_5f5abd1a19,Strategy & Decision Making,strategy decision making,Strategy & Decision Making,MGMT307,minor
+C_8562b97119,Summer Training/Internship,summer training internship,Summer Training/Internship,DATA801,"course_master,semester"
+C_4a5d952b1c,Sustainable Cities and Communities,sustainable cities and communities,Sustainable Cities and Communities,MTSC781,"course_master,semester"
+C_bd2fa61df8,Sustainable Smart Materials,sustainable smart materials,Sustainable Smart Materials,MTSC211,"course_master,semester"
+C_243b937274,Theoretical Computer Science,theoretical computer science,Theoretical Computer Science,COMP202,"course_master,semester"
+C_1164ca78eb,Visualizing Data for Story Telling,visualizing data for story telling,Visualizing Data for Story Telling,DATA131,"course_master,semester"
