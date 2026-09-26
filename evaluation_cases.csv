@@ -1,0 +1,31 @@
+case_id,category,question,expected_status,expected_outcome,verified_by
+1,Unknown prerequisite,What is the prerequisite for Financial and Management Accounting?,insufficient,Must identify the course and state that the prerequisite is not specified in the supplied source data; must not call it no-prerequisite.,deterministic_source_router
+2,Course ambiguity,What is the prerequisite for Communication Skills?,follow_up,Must identify UCOR103 and UCOR107 and ask which course the user means.,deterministic_source_router
+3,Course prerequisite,What is the prerequisite for UCOR205?,verified,Must report the recorded prerequisite status from the authoritative course data with source evidence.,deterministic_source_router
+4,Natural-language prerequisite,I want to know what I need before I can take COMP302.,verified,Must resolve Internet of Things/COMP302 and return the recorded prerequisite evidence.,deterministic_source_router
+5,Reverse prerequisite,Which courses depend on COMP201?,verified,Must identify supplied courses whose prerequisite records include COMP201.,deterministic_source_router
+6,Course offering,When is UCOR205 offered?,verified,Must report supplied semester offering records and not claim future availability.,deterministic_source_router
+7,Minor ambiguity,What courses are in the Finance minor?,follow_up,Must ask for the Finance batch/year because multiple batches are present.,deterministic_source_router
+8,Minor list,What courses are in the Finance minor for 2022?,verified,Must retrieve the Finance 2022 records from the minor workbook.,deterministic_source_router
+9,Structure category,What courses are in the Program Core of Struct_2025?,verified,Must retrieve the matching Program Core records from Struct_2025.,deterministic_source_router
+10,Missing structure,What are the graduation credit requirements?,follow_up,Must ask for the applicable academic structure/year because multiple structures exist.,deterministic_source_router
+11,Missing student context,Can I take COMP302?,follow_up,Must request/select a synthetic student profile before making a student-specific eligibility decision.,deterministic_source_router
+12,No prerequisite filter,Which courses have no prerequisite?,verified,Must list records explicitly recorded as Nil/None or equivalent no-prerequisite values.,deterministic_source_router
+13,Credit filter,Which courses have 3 credits?,verified,Must return records matching the 3-credit filter from the supplied academic data.,deterministic_source_router
+14,Student eligibility,Can SYN001 take UCOR205?,verified,Must evaluate the synthetic student's recorded course history against the recorded prerequisite rule and state the scope of the decision.,deterministic_source_router
+15,Failed prerequisite,What happens if I failed a prerequisite?,verified,Must state that the supplied student-history check treats a failed prerequisite as unsatisfied and must not invent an override policy.,deterministic_source_router
+16,Unknown course,Tell me about a course called XYZ999?,follow_up,Must say it cannot match the course and request a valid course name/code rather than inventing one.,deterministic_source_router
+17,Policy attendance,What is the attendance requirement?,verified,Must use the Student Handbook/SOP evidence; the Handbook records a minimum of 75 percent for end-semester examination attendance, subject to stated provisions.,policy_source_router
+18,Policy registration,Can I attend classes without completing course registration?,verified,Must use the Handbook/SOP and state that students are not permitted to attend classes without completing the appropriate registration procedure.,policy_source_router
+19,Policy add drop,How long do I have to add or drop a course?,verified,Must retrieve the SOP rule about submitting add/drop within two weeks of commencement of classes, subject to the stated notifications/approval process.,policy_source_router
+20,Policy audit,Can I audit a course and still earn credits?,verified,Must use the SOP and state that an audited course does not earn credits and requires the stated approvals.,policy_source_router
+21,Policy summer,Can I demand that a specific course be offered in the Summer Term?,verified,Must use the SOP/Handbook and state that a student cannot demand a specific course to be offered.,policy_source_router
+22,Policy fees,Can outstanding fees affect course registration?,verified,Must retrieve the supplied fee/registration policy and avoid adding unsupported exceptions.,policy_source_router
+23,Policy Digii,What is Digii used for?,verified,Must use the SOP/Handbook evidence describing Digii academic services such as registration, attendance and examination details.,policy_source_router
+24,Policy grievance,How do I submit a student grievance?,verified,Must retrieve the SOP grievance procedure and identify the official grievance channel described in the source.,policy_source_router
+25,Policy parking,What is the campus vehicle speed limit?,verified,Must use the SOP and report the stated 20 kmph limit.,policy_source_router
+26,Policy progression,What does the Student Handbook say about progression?,verified,Must retrieve the Academic Regulations progression evidence and avoid inventing program-specific criteria not present in the retrieved source.,policy_source_router
+27,Policy transfer,What does the Handbook say about transfer of credits?,verified,Must retrieve the Handbook transfer-of-credits section and cite the relevant source page.,policy_source_router
+28,Policy degree,Who approves the award of a degree?,verified,Must retrieve the Handbook award-of-degree section and report the documented approval chain without inference.,policy_source_router
+29,Policy scholarship,Can a student receive more than one scholarship in an academic year?,verified,Must retrieve the scholarship policy and report the stated one-scholarship-per-academic-year rule.,policy_source_router
+30,Out of scope,What is the weather today?,insufficient,Must state that weather is outside the supplied academic knowledge scope and not answer from outside knowledge.,deterministic_scope_gate
