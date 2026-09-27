@@ -1,0 +1,269 @@
+﻿academic_structure,structure_category,course_number,course_title,credits,source_sheet,source_row
+Struct_2022,University CORE - Courses,1,Communication skills,2.0,Struct_2022,3
+Struct_2022,University CORE - Courses,2,Problem Solving with Design Thinking,2.0,Struct_2022,4
+Struct_2022,University CORE - Courses,3,Introduction to Writing,2.0,Struct_2022,5
+Struct_2022,University CORE - Courses,4,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Struct_2022,6
+Struct_2022,University CORE - Courses,5,Leadership and Teamwork Skills,2.0,Struct_2022,7
+Struct_2022,University CORE - Courses,6,Learning to Learn,2.0,Struct_2022,8
+Struct_2022,University CORE - Courses,7,Critical Thinking,2.0,Struct_2022,9
+Struct_2022,University CORE - Courses,8,Introduction to Epistemology,2.0,Struct_2022,10
+Struct_2022,University CORE - Courses,9,Community Engagement and Service Experience,1.0,Struct_2022,11
+Struct_2022,Foundation Courses,1,Academic Writing,3.0,Struct_2022,2
+Struct_2022,Foundation Courses,2,Human Values in work and Life,2.0,Struct_2022,3
+Struct_2022,Foundation Courses,3,Sustainable Cities and Communities,3.0,Struct_2022,4
+Struct_2022,Foundation Courses,4,Materials for Smart devices,3.0,Struct_2022,5
+Struct_2022,Foundation Courses,5,Sustainable Smart Materials,3.0,Struct_2022,6
+Struct_2022,Foundation Courses,6,Introduction to Psychology/Introduction to Economics,3.0,Struct_2022,7
+Struct_2022,Foundation Courses,7,Design Workshop,2.0,Struct_2022,8
+Struct_2022,Foundation Courses,8,Calculus,3.0,Struct_2022,9
+Struct_2022,Foundation Courses,9,Probability Theory,3.0,Struct_2022,10
+Struct_2022,Foundation Courses,10,Linear Algebra,3.0,Struct_2022,11
+Struct_2022,Foundation Courses,11,Visualizing Data for Story Telling,2.0,Struct_2022,12
+Struct_2022,Foundation Courses,12,Language,3.0,Struct_2022,13
+Struct_2022,Foundation Courses,13,Foundation Seminar,1.0,Struct_2022,14
+Struct_2022,Program Core - Courses,1,Computational Thinking,3.0,Struct_2022,3
+Struct_2022,Program Core - Courses,2,Data Structures,4.0,Struct_2022,4
+Struct_2022,Program Core - Courses,3,Theoretical Computer Science,4.0,Struct_2022,5
+Struct_2022,Program Core - Courses,4,Analysis of Algorithms,4.0,Struct_2022,6
+Struct_2022,Program Core - Courses,5,Digital Design and Computer Organization,4.0,Struct_2022,7
+Struct_2022,Program Core - Courses,6,Object Oriented Programming,3.0,Struct_2022,8
+Struct_2022,Program Core - Courses,7,Microprocessors and Computer Architecture,4.0,Struct_2022,9
+Struct_2022,Program Core - Courses,8,Operating Systems,3.0,Struct_2022,10
+Struct_2022,Program Core - Courses,9,Networks,4.0,Struct_2022,11
+Struct_2022,Program Core - Courses,10,Databases Management,4.0,Struct_2022,12
+Struct_2022,Program Core - Courses,11,Statistics with R,3.0,Struct_2022,13
+Struct_2022,Program Core - Courses,12,Artificial Intelligence,4.0,Struct_2022,14
+Struct_2022,Program Core - Courses,13,Internet of Things,2.0,Struct_2022,15
+Struct_2022,Program Hons - Courses,1,Foundations to Data Science,3.0,Struct_2022,3
+Struct_2022,Program Hons - Courses,2,Exploratory Data Analysis,3.0,Struct_2022,4
+Struct_2022,Program Hons - Courses,3,Human Centric AI,2.0,Struct_2022,5
+Struct_2022,Program Hons - Courses,4,Machine Learning,4.0,Struct_2022,6
+Struct_2022,Program Hons - Courses,5,Optimization Techniques for Data Science,4.0,Struct_2022,7
+Struct_2022,Program Hons - Courses,6,Deep Learning,4.0,Struct_2022,8
+Struct_2022,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Probabilistic Graph Models,4.0,Struct_2022,2
+Struct_2022,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Advanced Visualization and Storytelling,4.0,Struct_2022,3
+Struct_2022,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Natural Language Processing,4.0,Struct_2022,4
+Struct_2022,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Multi Modal Learning,4.0,Struct_2022,5
+Struct_2022,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Reinforcement Learning,4.0,Struct_2022,6
+Struct_2022,Hons Sp Track #2 - Full Stack Development - Courses,1,Web Framework,4.0,Struct_2022,2
+Struct_2022,Hons Sp Track #2 - Full Stack Development - Courses,2,Big Data Framework,4.0,Struct_2022,3
+Struct_2022,Hons Sp Track #2 - Full Stack Development - Courses,3,Software Architecture and Deployments,4.0,Struct_2022,4
+Struct_2022,Hons Sp Track #2 - Full Stack Development - Courses,4,Cloud Computing,4.0,Struct_2022,5
+Struct_2022,Hons Sp Track #2 - Full Stack Development - Courses,5,Cognitive Computing,4.0,Struct_2022,6
+Struct_2023,University CORE - Courses,1,Communication skills,2.0,Struct_2023,3
+Struct_2023,University CORE - Courses,2,Problem Solving with Design Thinking,2.0,Struct_2023,4
+Struct_2023,University CORE - Courses,3,Introduction to Writing,2.0,Struct_2023,5
+Struct_2023,University CORE - Courses,4,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Struct_2023,6
+Struct_2023,University CORE - Courses,5,Leadership and Teamwork Skills,2.0,Struct_2023,7
+Struct_2023,University CORE - Courses,6,Learning to Learn,2.0,Struct_2023,8
+Struct_2023,University CORE - Courses,7,Critical Thinking,2.0,Struct_2023,9
+Struct_2023,University CORE - Courses,8,Introduction to Epistemology,2.0,Struct_2023,10
+Struct_2023,University CORE - Courses,9,Community Engagement and Service Experience,1.0,Struct_2023,11
+Struct_2023,University CORE - Courses,,2023 DS,,Struct_2023,14
+Struct_2023,Foundation Courses,1,Academic Writing,3.0,Struct_2023,2
+Struct_2023,Foundation Courses,2,Human Values in work and Life,2.0,Struct_2023,3
+Struct_2023,Foundation Courses,3,Sustainable Cities and Communities,3.0,Struct_2023,4
+Struct_2023,Foundation Courses,4,Materials for Smart devices,3.0,Struct_2023,5
+Struct_2023,Foundation Courses,5,Sustainable Smart Materials,3.0,Struct_2023,6
+Struct_2023,Foundation Courses,6,Introduction to Psychology/Introduction to Economics,3.0,Struct_2023,7
+Struct_2023,Foundation Courses,7,Design Workshop,2.0,Struct_2023,8
+Struct_2023,Foundation Courses,8,Calculus,3.0,Struct_2023,9
+Struct_2023,Foundation Courses,9,Probability Theory,3.0,Struct_2023,10
+Struct_2023,Foundation Courses,10,Linear Algebra,3.0,Struct_2023,11
+Struct_2023,Foundation Courses,11,Visualizing Data for Story Telling,2.0,Struct_2023,12
+Struct_2023,Foundation Courses,12,Language,3.0,Struct_2023,13
+Struct_2023,Foundation Courses,13,Foundation Seminar,1.0,Struct_2023,14
+Struct_2023,Program Core - Courses,1,Research Methodology,3.0,Struct_2023,3
+Struct_2023,Program Core - Courses,2,Data Structures,4.0,Struct_2023,4
+Struct_2023,Program Core - Courses,3,Theoretical Computer Science,4.0,Struct_2023,5
+Struct_2023,Program Core - Courses,4,Analysis of Algorithms,4.0,Struct_2023,6
+Struct_2023,Program Core - Courses,5,Digital Design and Computer Organization,4.0,Struct_2023,7
+Struct_2023,Program Core - Courses,6,Object Oriented Programming,3.0,Struct_2023,8
+Struct_2023,Program Core - Courses,7,Microprocessors and Computer Architecture,4.0,Struct_2023,9
+Struct_2023,Program Core - Courses,8,Operating Systems,3.0,Struct_2023,10
+Struct_2023,Program Core - Courses,9,Networks,4.0,Struct_2023,11
+Struct_2023,Program Core - Courses,10,Databases Management,4.0,Struct_2023,12
+Struct_2023,Program Core - Courses,11,Statistics with R,3.0,Struct_2023,13
+Struct_2023,Program Core - Courses,12,Artificial Intelligence,4.0,Struct_2023,14
+Struct_2023,Program Core - Courses,13,Internet of Things,2.0,Struct_2023,15
+Struct_2023,Program Hons - Courses,1,Foundations to Data Science,3.0,Struct_2023,3
+Struct_2023,Program Hons - Courses,2,Exploratory Data Analysis,3.0,Struct_2023,4
+Struct_2023,Program Hons - Courses,3,MLOps & Model Deployment,2.0,Struct_2023,5
+Struct_2023,Program Hons - Courses,4,Machine Learning,4.0,Struct_2023,6
+Struct_2023,Program Hons - Courses,5,Optimization Techniques for Data Science,4.0,Struct_2023,7
+Struct_2023,Program Hons - Courses,6,Deep Learning,4.0,Struct_2023,8
+Struct_2023,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Probabilistic Graph Models,4.0,Struct_2023,2
+Struct_2023,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Advanced Topics in Deep Learning,4.0,Struct_2023,3
+Struct_2023,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Natural Language Processing,4.0,Struct_2023,4
+Struct_2023,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Multi Modal Learning,4.0,Struct_2023,5
+Struct_2023,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Reinforcement Learning,4.0,Struct_2023,6
+Struct_2023,Hons Sp Track #2 - Full Stack Development - Courses,1,Web Framework,4.0,Struct_2023,2
+Struct_2023,Hons Sp Track #2 - Full Stack Development - Courses,2,Big Data Framework,4.0,Struct_2023,3
+Struct_2023,Hons Sp Track #2 - Full Stack Development - Courses,3,Software Architecture and Deployments,4.0,Struct_2023,4
+Struct_2023,Hons Sp Track #2 - Full Stack Development - Courses,4,Cloud &Cognitive Computing,4.0,Struct_2023,5
+Struct_2023,Hons Sp Track #2 - Full Stack Development - Courses,5,Natural Language Processing,4.0,Struct_2023,6
+Struct_2024,University CORE - Courses,1,Communication and Leadership skills,3.0,Struct_2024,3
+Struct_2024,University CORE - Courses,2,Introduction to Writing,2.0,Struct_2024,4
+Struct_2024,University CORE - Courses,3,Learning to Learn,2.0,Struct_2024,5
+Struct_2024,University CORE - Courses,4,Fundamentals of Indian Constitution and Human Rights,2.0,Struct_2024,6
+Struct_2024,University CORE - Courses,5,Critical Thinking,3.0,Struct_2024,7
+Struct_2024,University CORE - Courses,6,Problem Solving with Design Thinking,2.0,Struct_2024,8
+Struct_2024,University CORE - Courses,7,Socio Cultural Perspectives on Indian Life-SPIL,3.0,Struct_2024,9
+Struct_2024,University CORE - Courses,8,Community Engagement and Service Experience,1.0,Struct_2024,10
+Struct_2024,University CORE - Courses,#,Foundation Courses,,Struct_2024,14
+Struct_2024,University CORE - Courses,1,Academic Writing,2.0,Struct_2024,15
+Struct_2024,University CORE - Courses,2,Introduction to Psychology/Introduction to Economics,3.0,Struct_2024,16
+Struct_2024,University CORE - Courses,3,Human Values in work and Life,2.0,Struct_2024,17
+Struct_2024,University CORE - Courses,4,Language,3.0,Struct_2024,18
+Struct_2024,University CORE - Courses,5,Sustainable Cities and Communities,3.0,Struct_2024,19
+Struct_2024,University CORE - Courses,6,Materials for Smart devices,3.0,Struct_2024,20
+Struct_2024,University CORE - Courses,7,Sustainable Smart Materials,3.0,Struct_2024,21
+Struct_2024,University CORE - Courses,8,Design Workshop,2.0,Struct_2024,22
+Struct_2024,University CORE - Courses,9,Calculus,3.0,Struct_2024,23
+Struct_2024,University CORE - Courses,10,Probability and Statistics,4.0,Struct_2024,24
+Struct_2024,University CORE - Courses,11,Linear Algebra,3.0,Struct_2024,25
+Struct_2024,University CORE - Courses,12,Cloud Computing,3.0,Struct_2024,26
+Struct_2024,Program Core - Courses,1,Data Structures,4.0,Struct_2024,3
+Struct_2024,Program Core - Courses,2,Theoretical Computer Science,4.0,Struct_2024,4
+Struct_2024,Program Core - Courses,3,Analysis of Algorithms,4.0,Struct_2024,5
+Struct_2024,Program Core - Courses,4,Digital Design and Computer Organization,4.0,Struct_2024,6
+Struct_2024,Program Core - Courses,5,Object Oriented Programming,3.0,Struct_2024,7
+Struct_2024,Program Core - Courses,6,Microprocessors and Computer Architecture,4.0,Struct_2024,8
+Struct_2024,Program Core - Courses,7,Operating Systems,3.0,Struct_2024,9
+Struct_2024,Program Core - Courses,8,Networks,4.0,Struct_2024,10
+Struct_2024,Program Core - Courses,9,Databases Management,4.0,Struct_2024,11
+Struct_2024,Program Core - Courses,10,Programming in Python,3.0,Struct_2024,12
+Struct_2024,Program Core - Courses,11,Data Visuatlization and Storytelling,3.0,Struct_2024,13
+Struct_2024,Program Core - Courses,12,Artificial Intelligence,4.0,Struct_2024,14
+Struct_2024,Program Core - Courses,13,Internet of Things,2.0,Struct_2024,15
+Struct_2024,Program Core - Courses,#,Program Hons - Courses,,Struct_2024,18
+Struct_2024,Program Core - Courses,1,Advanced Statistical Analysis and Research Methods with R,2.0,Struct_2024,19
+Struct_2024,Program Core - Courses,2,Foundations to Data Science,3.0,Struct_2024,20
+Struct_2024,Program Core - Courses,3,Exploratory Data Analysis,3.0,Struct_2024,21
+Struct_2024,Program Core - Courses,4,Optimization Techniques for Data Science,4.0,Struct_2024,22
+Struct_2024,Program Core - Courses,5,Machine Learning,4.0,Struct_2024,23
+Struct_2024,Program Core - Courses,6,Deep Learning,4.0,Struct_2024,24
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Probabilistic Graph Models,4.0,Struct_2024,3
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Natural Language Processing,4.0,Struct_2024,4
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Multi Modal Learning,4.0,Struct_2024,5
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Reinforcement Learning,4.0,Struct_2024,6
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Advanced Topics in Deep Learning,4.0,Struct_2024,7
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,#,Hons Sp Track #2 - Full Stack Development - Courses,,Struct_2024,10
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Web Framework,4.0,Struct_2024,11
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Big Data Framework,4.0,Struct_2024,12
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Software Architecture and Deployments,4.0,Struct_2024,13
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Reinforcement Learning,4.0,Struct_2024,14
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Natural Language Processing,4.0,Struct_2024,15
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,#,Internship and Capstone Project- Courses,,Struct_2024,18
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Summe Training/Internship,2.0,Struct_2024,20
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Interdisciplinary Project,4.0,Struct_2024,21
+Struct_2024,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Capstone Project/Industrial Internship,12.0,Struct_2024,22
+Struct_2025,University CORE - Courses,1,Communication Skills,2.0,Struct_2025,3
+Struct_2025,University CORE - Courses,2,Human Values in work and Life,2.0,Struct_2025,4
+Struct_2025,University CORE - Courses,3,Learning to Learn,2.0,Struct_2025,5
+Struct_2025,University CORE - Courses,4,Environmental Studies and Sustainability,2.0,Struct_2025,6
+Struct_2025,University CORE - Courses,5,Fundamentals of Indian Constitution and Human Rights,2.0,Struct_2025,7
+Struct_2025,University CORE - Courses,6,Community Engagement and Service Experience,1.0,Struct_2025,8
+Struct_2025,University CORE - Courses,7,Socio-Cultural Perspectives on Indian Life-SPIL,3.0,Struct_2025,9
+Struct_2025,University CORE - Courses,8,Humanistic Leadership Development,2.0,Struct_2025,10
+Struct_2025,University CORE - Courses,9,Analytical Academic Writing,3.0,Struct_2025,11
+Struct_2025,University CORE - Courses,10,Critical Thinking,3.0,Struct_2025,12
+Struct_2025,University CORE - Courses,11,Problem Solving for Design Thinking,2.0,Struct_2025,13
+Struct_2025,University CORE - Courses,#,Foundation Courses,,Struct_2025,16
+Struct_2025,University CORE - Courses,1,Language,2.0,Struct_2025,17
+Struct_2025,University CORE - Courses,2,Materials for Smart devices,3.0,Struct_2025,18
+Struct_2025,University CORE - Courses,3,Sustainable Smart Materials,3.0,Struct_2025,19
+Struct_2025,University CORE - Courses,4,Design Workshop,2.0,Struct_2025,20
+Struct_2025,University CORE - Courses,5,Multivariate Calculus,4.0,Struct_2025,21
+Struct_2025,University CORE - Courses,6,Probability and Statistics,4.0,Struct_2025,22
+Struct_2025,University CORE - Courses,7,Linear Algebra,4.0,Struct_2025,23
+Struct_2025,University CORE - Courses,8,Advanced Statistical Analysis and Research Methods with R,2.0,Struct_2025,24
+Struct_2025,Program Core - Courses,1,Data Structures,4.0,Struct_2025,3
+Struct_2025,Program Core - Courses,2,Theoretical Computer Science,4.0,Struct_2025,4
+Struct_2025,Program Core - Courses,3,Analysis of Algorithms,4.0,Struct_2025,5
+Struct_2025,Program Core - Courses,4,Digital Design and Computer Organization,4.0,Struct_2025,6
+Struct_2025,Program Core - Courses,5,Object Oriented Programming,3.0,Struct_2025,7
+Struct_2025,Program Core - Courses,6,Microprocessors and Computer Architecture,4.0,Struct_2025,8
+Struct_2025,Program Core - Courses,7,Operating Systems,3.0,Struct_2025,9
+Struct_2025,Program Core - Courses,8,Networks,4.0,Struct_2025,10
+Struct_2025,Program Core - Courses,9,Databases Management,4.0,Struct_2025,11
+Struct_2025,Program Core - Courses,10,Programming in Python,3.0,Struct_2025,12
+Struct_2025,Program Core - Courses,11,Data Visuatlization and Storytelling,3.0,Struct_2025,13
+Struct_2025,Program Core - Courses,12,Artificial Intelligence,4.0,Struct_2025,14
+Struct_2025,Program Core - Courses,13,Internet of Things,2.0,Struct_2025,15
+Struct_2025,Program Core - Courses,#,Program Hons - Courses,,Struct_2025,18
+Struct_2025,Program Core - Courses,1,Advanced Exploratory Data Analysis,4.0,Struct_2025,19
+Struct_2025,Program Core - Courses,2,Optimization Techniques for Data Science,4.0,Struct_2025,20
+Struct_2025,Program Core - Courses,3,Machine Learning,4.0,Struct_2025,21
+Struct_2025,Program Core - Courses,4,Deep Learning,4.0,Struct_2025,22
+Struct_2025,Program Core - Courses,5,Natural Language Processing,4.0,Struct_2025,23
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Probabilistic Graph Models,4.0,Struct_2025,3
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Advanced Topics in Deep Learning,4.0,Struct_2025,4
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Image Processing and Computer Vision,4.0,Struct_2025,5
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Multi Modal Learning,4.0,Struct_2025,6
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Reinforcement Learning,4.0,Struct_2025,7
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,#,Hons Sp Track #2 - Full Stack Development - Courses,,Struct_2025,10
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Web Framework,4.0,Struct_2025,11
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Big Data Framework,4.0,Struct_2025,12
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,3,Software Architecture and Deployments,4.0,Struct_2025,13
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Cloud & Cognitive Computing,4.0,Struct_2025,14
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,5,Reinforcement Learning,4.0,Struct_2025,15
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,#,Internship and Capstone Project- Courses,,Struct_2025,18
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Summe Training/Internship,2.0,Struct_2025,20
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Capstone Project/Industrial Internship,12.0,Struct_2025,21
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,1,Essentials of Business Management,2.0,Struct_2025,26
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,2,Intro to Psychology /Principles of Economics,2.0,Struct_2025,27
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,3,6 Courses of 4 credits each,24.0,Struct_2025,28
+Struct_2025,Hons Sp Track #1 - Applied Deep Learning - Courses,4,Interdesciplinary Project,4.0,Struct_2025,29
+Struct_2026_DS,University CORE - Courses,1,Communication Skills,3.0,Struct_2026_DS,3
+Struct_2026_DS,University CORE - Courses,3,Learning to Learn,2.0,Struct_2026_DS,4
+Struct_2026_DS,University CORE - Courses,4,Environmental Studies and Sustainability,2.0,Struct_2026_DS,5
+Struct_2026_DS,University CORE - Courses,5,Fundamentals of Indian Constitution and Human Rights,2.0,Struct_2026_DS,6
+Struct_2026_DS,University CORE - Courses,6,Community Engagement,1.0,Struct_2026_DS,7
+Struct_2026_DS,University CORE - Courses,7,Socio-Cultural Perspectives on Indian Life-SPIL,3.0,Struct_2026_DS,8
+Struct_2026_DS,University CORE - Courses,10,Critical Thinking,3.0,Struct_2026_DS,9
+Struct_2026_DS,University CORE - Courses,11,Problem Solving for Design Thinking,2.0,Struct_2026_DS,10
+Struct_2026_DS,University CORE - Courses,#,Foundation Courses,,Struct_2026_DS,13
+Struct_2026_DS,University CORE - Courses,1,Language,2.0,Struct_2026_DS,14
+Struct_2026_DS,University CORE - Courses,2,Materials for Smart devices,3.0,Struct_2026_DS,15
+Struct_2026_DS,University CORE - Courses,3,Sustainable Smart Materials,3.0,Struct_2026_DS,16
+Struct_2026_DS,University CORE - Courses,4,Design Workshop,3.0,Struct_2026_DS,17
+Struct_2026_DS,University CORE - Courses,5,Multivariate Calculus,4.0,Struct_2026_DS,18
+Struct_2026_DS,University CORE - Courses,6,Probability and Statistics,4.0,Struct_2026_DS,19
+Struct_2026_DS,University CORE - Courses,7,Linear Algebra,4.0,Struct_2026_DS,20
+Struct_2026_DS,University CORE - Courses,8,Advanced Statistical Analysis and Research Methods,3.0,Struct_2026_DS,21
+Struct_2026_DS,Program Core - Courses,1,Data Structures,4.0,Struct_2026_DS,3
+Struct_2026_DS,Program Core - Courses,2,Theoretical Computer Science,4.0,Struct_2026_DS,4
+Struct_2026_DS,Program Core - Courses,3,Analysis of Algorithms,4.0,Struct_2026_DS,5
+Struct_2026_DS,Program Core - Courses,4,Digital Design and Computer Organization,4.0,Struct_2026_DS,6
+Struct_2026_DS,Program Core - Courses,5,Object Oriented Programming,3.0,Struct_2026_DS,7
+Struct_2026_DS,Program Core - Courses,6,Microprocessors and Computer Architecture,4.0,Struct_2026_DS,8
+Struct_2026_DS,Program Core - Courses,7,Operating Systems,4.0,Struct_2026_DS,9
+Struct_2026_DS,Program Core - Courses,8,Networks,4.0,Struct_2026_DS,10
+Struct_2026_DS,Program Core - Courses,9,Databases Management,4.0,Struct_2026_DS,11
+Struct_2026_DS,Program Core - Courses,10,Programming in Python,3.0,Struct_2026_DS,12
+Struct_2026_DS,Program Core - Courses,11,Data Visuatlization and Storytelling,3.0,Struct_2026_DS,13
+Struct_2026_DS,Program Core - Courses,12,Artificial Intelligence,4.0,Struct_2026_DS,14
+Struct_2026_DS,Program Core - Courses,13,Internet of Things,2.0,Struct_2026_DS,15
+Struct_2026_DS,Program Core - Courses,14,Compiler Design,3.0,Struct_2026_DS,16
+Struct_2026_DS,Program Core - Courses,#,Program Hons - Courses,,Struct_2026_DS,19
+Struct_2026_DS,Program Core - Courses,1,Advanced Exploratory Data Analysis,4.0,Struct_2026_DS,20
+Struct_2026_DS,Program Core - Courses,2,Optimization Techniques for Data Science,4.0,Struct_2026_DS,21
+Struct_2026_DS,Program Core - Courses,3,Machine Learning,4.0,Struct_2026_DS,22
+Struct_2026_DS,Program Core - Courses,4,Deep Learning,4.0,Struct_2026_DS,23
+Struct_2026_DS,Program Core - Courses,5,Natural Language Processing,4.0,Struct_2026_DS,24
+Struct_2026_DS,Electives,1,Probabilistic Graph Models,4.0,Struct_2026_DS,3
+Struct_2026_DS,Electives,2,Advanced Topics in Deep Learning,4.0,Struct_2026_DS,4
+Struct_2026_DS,Electives,3,Cloud & Cognitive Computing,4.0,Struct_2026_DS,5
+Struct_2026_DS,Electives,4,Multi Modal Learning,4.0,Struct_2026_DS,6
+Struct_2026_DS,Electives,5,Reinforcement Learning,4.0,Struct_2026_DS,7
+Struct_2026_DS,Electives,6,Web Framework,4.0,Struct_2026_DS,8
+Struct_2026_DS,Electives,7,Big Data Framework,4.0,Struct_2026_DS,9
+Struct_2026_DS,Electives,8,Software Architecture and Deployments,4.0,Struct_2026_DS,10
+Struct_2026_DS,Electives,#,Internship and Capstone Project- Courses,,Struct_2026_DS,13
+Struct_2026_DS,Electives,1,Summe Training/Internship,2.0,Struct_2026_DS,15
+Struct_2026_DS,Electives,2,Capstone Project/Industrial Internship,12.0,Struct_2026_DS,16
+Struct_2026_DS,Electives,1,Essentials of Business Management,2.0,Struct_2026_DS,20
+Struct_2026_DS,Electives,2,Intro to Psychology /Principles of Economics,2.0,Struct_2026_DS,21
+Struct_2026_DS,Electives,3,6 Courses of 4 credits each,24.0,Struct_2026_DS,22
+Struct_2026_DS,Electives,4,Interdesciplinary Project,4.0,Struct_2026_DS,23

@@ -1,0 +1,5 @@
+student_id,batch,programme,current_semester,total_credits,minor
+SYN001,2026,BTech,5,72,Finance
+SYN002,2026,BTech,6,96,Psychology
+SYN003,2025,BTech,7,120,Finance
+SYN004,2026,BTech,3,45,Finance
