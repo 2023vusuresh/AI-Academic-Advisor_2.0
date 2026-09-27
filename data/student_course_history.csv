@@ -1,0 +1,9 @@
+student_id,course_code,status,grade,course_exists
+SYN001,UCOR103,Passed,A,True
+SYN001,UCOR203,Passed,B,True
+SYN001,UCOR205,Failed,F,True
+SYN002,UCOR103,Passed,A,True
+SYN002,UCOR203,Passed,B,True
+SYN003,UCOR103,Passed,A,True
+SYN004,UCOR203,Passed,B,True
+SYN004,MATH201,Passed,A,True

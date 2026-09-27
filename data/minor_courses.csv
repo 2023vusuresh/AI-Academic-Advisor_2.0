@@ -1,0 +1,152 @@
+﻿minor,batch,course_code,course_title,lecture_hours,tutorial_hours,practical_hours,credits,semester,prerequisite,source_sheet,source_row,course_code_source,prerequisite_status
+Law Minor,2023,LAWM305,Regulating platform and Gig workers,3.0,0.0,2.0,4,5,,Law Minor,3,LAWM305,unknown
+Law Minor,2023,LAWE200,Moral Philosophy and Justice,2.0,0.0,0.0,2,6,,Law Minor,4,LAWE200,unknown
+Law Minor,2023,LAWC410,Introduction to Alternative Dispute Resolution Methods,2.0,0.0,2.0,3,6,,Law Minor,5,LAWC410,unknown
+Law Minor,2023,LAWB210,Criminology and Victimology,2.0,2.0,0.0,4,6,,Law Minor,6,LAWB210,unknown
+Law Minor,2023,LAWM306,Law Relating to start-ups,3.0,1.0,0.0,4,7,,Law Minor,7,LAWM306,unknown
+Law Minor,2023,LAWE301,Intellectual Property Rights,2.0,0.0,0.0,2,7,,Law Minor,8,LAWE301,unknown
+Law Minor,2024,LAWP100,Political Science I,2.0,1.0,0.0,3,3,,Law Minor,11,LAWP100,unknown
+Law Minor,2024,LAWS301,Legal Methods,2.0,0.0,2.0,3,3,,Law Minor,12,LAWS301,unknown
+Law Minor,2024,LAWM301,Constitution for Citizens,2.0,2.0,0.0,4,4,,Law Minor,13,LAWM301,unknown
+Law Minor,2024,LAWM302,Basics of International Law,3.0,1.0,0.0,4,5,,Law Minor,14,LAWM302,unknown
+Law Minor,2025,LAWS301,Legal Methods,2.0,0.0,2.0,3,3,,Law Minor,17,LAWS301,unknown
+Law Minor,2025,LAWP101,Introduction to Political science,3.0,1.0,0.0,4,2,,Law Minor,18,LAWP101,unknown
+Design Minor,2022,CDES105,Appreciating and Deconstructing Art and Media,3.0,0.0,0.0,3,3,,Design Minor,2,CDES105,unknown
+Design Minor,2022,CDES203,Motion Graphic Design,1.0,0.0,2.0,2,5,,Design Minor,3,CDES203,unknown
+Design Minor,2022,CDES504,Environment Design and Communication,1.0,1.0,0.0,2,5,,Design Minor,4,CDES504,unknown
+Design Minor,2022,CDES704,Integrative Studio VI- Exhibition/Museum,2.0,2.0,0.0,4,6,,Design Minor,5,CDES704,unknown
+Design Minor,2022,CDES402,Interaction Design- UI UX,1.0,3.0,0.0,4,6,,Design Minor,6,CDES402,unknown
+Design Minor,2022,CDES216,Drawing and Moving Images,1.0,1.0,0.0,2,7,,Design Minor,7,CDES216,unknown
+Design Minor,2022,CDES712,Designing Futures,1.0,2.0,0.0,3,7,,Design Minor,8,CDES712,unknown
+Design Minor,2023,CDES105,Appreciating and Deconstructing Art and Media,3.0,0.0,0.0,3,3,,Design Minor,11,CDES105,unknown
+Design Minor,2023,CDES702,"Integrative Studio II- Sensemaking, Visualization",2.0,2.0,0.0,4,4,,Design Minor,12,CDES702,unknown
+Design Minor,2023,CDES221,Information Architecture and Design,2.0,2.0,0.0,4,5,,Design Minor,13,CDES221,unknown
+Design Minor,2023,CDES219,Elements of Sound,2.0,2.0,0.0,4,6,,Design Minor,14,CDES219,unknown
+Design Minor,2023,CDES301,Sketch to Story,2.0,2.0,0.0,4,6,,Design Minor,15,CDES301,unknown
+Design Minor,2023,CDES312,Designing Futures,2.0,2.0,2.0,5,7,,Design Minor,16,CDES312,unknown
+Design Minor,2024,CDES217,Making with Reframed Media,2.0,3.0,0.0,4,3,,Design Minor,18,CDES217,unknown
+Design Minor,2024,CDES218,Frames and Frequencies,2.0,2.0,0.0,4,4,,Design Minor,19,CDES218,unknown
+Design Minor,2024,CDES221,Information Architecture and Design,2.0,2.0,0.0,4,5,,Design Minor,20,CDES221,unknown
+Design Minor,2024,CDES227,Drawing and Moving Image,2.0,2.0,0.0,4,5,,Design Minor,21,CDES227,unknown
+Design Minor,2025,CDES217,Making with Reframed Media,2.0,2.0,0.0,4,3,,Design Minor,25,CDES217,unknown
+Psychology,2022,PSYC201,Biological Psychology,3.0,1.0,0.0,4,3,,Psychology,2,PSYC201,unknown
+Psychology,2022,PSYC202,Cognitive Psychology,2.0,2.0,0.0,4,4,,Psychology,3,PSYC202,unknown
+Psychology,2022,PSYC255,Psychopathology,3.0,1.0,0.0,4,5,,Psychology,4,PSYC255,unknown
+Psychology,2022,PSYC241,Social Psychology,2.0,2.0,0.0,4,6,,Psychology,5,PSYC241,unknown
+Psychology,2022,PSYC204,Developmental Psychology,3.0,1.0,0.0,4,6,,Psychology,6,PSYC204,unknown
+Psychology,2022,PSYC303,Psychological Testing and Measurement,3.0,1.0,0.0,4,7,,Psychology,7,PSYC303,unknown
+Psychology,2023,PSYC201,Biological Psychology,3.0,1.0,0.0,4,3,,Psychology,9,PSYC201,unknown
+Psychology,2023,PSYC202,Cognitive Psychology,2.0,2.0,0.0,4,4,,Psychology,10,PSYC202,unknown
+Psychology,2023,PSYC104,Lifespan Development I,3.0,1.0,0.0,4,5,,Psychology,11,PSYC104,unknown
+Psychology,2023,PSYC241,Social Psychology,2.0,2.0,0.0,4,6,,Psychology,12,PSYC241,unknown
+Psychology,2023,PSYC306,Health Psychology,3.0,1.0,0.0,4,6,,Psychology,13,PSYC306,unknown
+Psychology,2023,PSYC255,Psychopathology,3.0,1.0,0.0,4,7,,Psychology,14,PSYC255,unknown
+Psychology,2024,PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4,3,,Psychology,16,PSYC201/ PSYC103,unknown
+Psychology,2024,PSYC202,Cognitive Psychology,2.0,2.0,0.0,4,4,,Psychology,17,PSYC202,unknown
+Psychology,2024,PSYC241,Social Psychology,2.0,2.0,0.0,4,5,,Psychology,18,PSYC241,unknown
+Psychology,2024,PSYC306,Health Psychology,3.0,1.0,0.0,4,6,,Psychology,19,PSYC306,unknown
+Psychology,2024,PSYC104,Lifespan Development I,3.0,1.0,0.0,4,6,,Psychology,20,PSYC104,unknown
+Psychology,2024,PSYC255,Psychopathology,3.0,1.0,0.0,4,7,,Psychology,21,PSYC255,unknown
+Psychology,2025,PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4,3,,Psychology,23,PSYC201/ PSYC103,unknown
+Psychology,2025,PSYC202,Cognitive Psychology,2.0,2.0,0.0,4,4,,Psychology,24,PSYC202,unknown
+Psychology,2025,PSYC241,Social Psychology,2.0,2.0,0.0,4,5,,Psychology,25,PSYC241,unknown
+Psychology,2025,PSYC306,Health Psychology,3.0,1.0,0.0,4,6,,Psychology,26,PSYC306,unknown
+Psychology,2025,PSYC104,Lifespan Development I,3.0,1.0,0.0,4,6,,Psychology,27,PSYC104,unknown
+Psychology,2025,PSYC255,Psychopathology,3.0,1.0,0.0,4,7,,Psychology,28,PSYC255,unknown
+Psychology,2026,PSYC201/PSYC103,Biological Psychology/ Foundations of Psychology I,3.0,1.0,0.0,4,3,,Psychology,30,PSYC201/ PSYC103,unknown
+Psychology,2026,PSYC202,Cognitive Psychology,2.0,2.0,0.0,4,4,,Psychology,31,PSYC202,unknown
+Psychology,2026,PSYC241,Social Psychology,2.0,2.0,0.0,4,5,,Psychology,32,PSYC241,unknown
+Psychology,2026,PSYC306,Health Psychology,3.0,1.0,0.0,4,6,,Psychology,33,PSYC306,unknown
+Psychology,2026,PSYC104,Lifespan Development I,3.0,1.0,0.0,4,6,,Psychology,34,PSYC104,unknown
+Psychology,2026,PSYC255,Psychopathology,3.0,1.0,0.0,4,7,,Psychology,35,PSYC255,unknown
+Economics,2022,ECON201,Microeconomics,3.0,1.0,0.0,4,3,,Economics,2,ECON201,unknown
+Economics,2022,ECON220,Behavourial Economics,3.0,1.0,0.0,4,4,,Economics,3,ECON220,unknown
+Economics,2022,ECON207,Macroeconomics and Applicants to Indian Economy,3.0,1.0,0.0,4,5,,Economics,4,ECON207,unknown
+Economics,2022,ECON413,Industrial Economics,3.0,1.0,0.0,4,6,,Economics,5,ECON413,unknown
+Economics,2022,ECON325,Public Economics,3.0,1.0,0.0,4,6,,Economics,6,ECON325,unknown
+Economics,2022,ECON316,Digital Economics,3.0,1.0,0.0,4,7,,Economics,7,ECON316,unknown
+Economics,2023,ECON201,Microeconomics,3.0,1.0,0.0,4,3,,Economics,9,ECON201,unknown
+Economics,2023,ECON209,Macroeconomics I,3.0,1.0,0.0,4,4,,Economics,10,ECON209,unknown
+Economics,2023,ECON316,Digital Economics,3.0,1.0,0.0,4,5,,Economics,11,ECON316,unknown
+Economics,2023,ECON315,Indian Economy,3.0,1.0,0.0,4,6,,Economics,12,ECON315,unknown
+Economics,2023,ECON322,Economics of Health and Education,3.0,1.0,0.0,4,6,,Economics,13,ECON322,unknown
+Economics,2023,ECON301,International Economics,3.0,1.0,0.0,4,7,,Economics,14,ECON301,unknown
+Economics,2025,ECON208,Microeconomics I,3.0,1.0,0.0,4,3,,Economics,18,ECON208,unknown
+Economics,2025,ECON209,Macroeconomics I,3.0,1.0,0.0,4,4,,Economics,19,ECON209,unknown
+Economics,2025,ECON316,Digital Economics,3.0,1.0,0.0,4,5,,Economics,20,ECON316,unknown
+Economics,2025,ECON315,Indian Economy,3.0,1.0,0.0,4,6,,Economics,21,ECON315,unknown
+Economics,2025,ECON346,Financial Economics,3.0,1.0,0.0,4,6,,Economics,22,ECON346,unknown
+Economics,2025,ECON301,International Economics,3.0,1.0,0.0,4,7,,Economics,23,ECON301,unknown
+Economics,2026,ECON208,Microeconomics I,3.0,1.0,0.0,4,3,,Economics,25,ECON208,unknown
+Economics,2026,ECON209,Macroeconomics I,3.0,1.0,0.0,4,4,,Economics,26,ECON209,unknown
+Economics,2026,ECON316,Digital Economics,3.0,1.0,0.0,4,5,,Economics,27,ECON316,unknown
+Economics,2026,ECON315,Indian Economy,3.0,1.0,0.0,4,6,,Economics,28,ECON315,unknown
+Economics,2026,ECON346,Financial Economics,3.0,1.0,0.0,4,6,,Economics,29,ECON346,unknown
+Economics,2026,ECON301,International Economics,3.0,1.0,0.0,4,7,,Economics,30,ECON301,unknown
+Finance,2022,DON’T KNOW,Financial and Management Accounting (FAMA),2.0,1.0,0.0,3,3,,Finance,3,DON’T KNOW,unknown
+Finance,2022,FINA333,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3,4,,Finance,4,FINA333,unknown
+Finance,2022,MGMT207,Corporate Finance,2.0,1.0,0.0,3,5,,Finance,5,MGMT207,unknown
+Finance,2022,MGMT209,Financial Statement Anaylsis,2.0,1.0,0.0,3,6,,Finance,6,MGMT209,unknown
+Finance,2022,MGMT210,Basics of INVESTMENT MANAGEMENT,2.0,2.0,0.0,4,6,,Finance,7,MGMT210,unknown
+Finance,2022,MGMT213,Introduction To Fintech,1.0,1.0,0.0,2,7,,Finance,8,MGMT213,unknown
+Finance,2022,MGMT323,Basics of Startup Finance,3.0,1.0,0.0,4,7,,Finance,9,MGMT323,unknown
+Finance,2022,MGMT203,Business Strategy Simulation,0.0,0.0,0.0,2,7,,Finance,10,MGMT203,unknown
+Finance,2023,MGMT208,Introduction to Financial Accounting,2.0,1.0,0.0,3,3,,Finance,14,MGMT208,unknown
+Finance,2023,FINA333,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3,4,,Finance,15,FINA333,unknown
+Finance,2023,MGMT207,Corporate Finance,2.0,1.0,0.0,3,5,,Finance,16,MGMT207,unknown
+Finance,2023,MGMT209,Finacial Statement Analysis,2.0,1.0,0.0,3,6,,Finance,17,MGMT209,unknown
+Finance,2023,MGMT210,Basics of Investment Management,2.0,2.0,0.0,4,6,,Finance,18,MGMT210,unknown
+Finance,2023,MGMT323,Basics of Startup Finance,3.0,1.0,0.0,4,6,,Finance,19,MGMT323,unknown
+Finance,2023,MGMT213,Introduction To Fintech,1.0,1.0,0.0,2,7,,Finance,20,MGMT213,unknown
+Finance,2023,MGMT307,Strategy & Decision Making,1.0,1.0,0.0,2,7,,Finance,21,MGMT307,unknown
+Finance,2024,MGMT208,Introduction to Financial Accounting,2.0,1.0,0.0,3,3,,Finance,25,MGMT208,unknown
+Finance,2024,FINA333,Fiancial Institutions Markets and Services,2.0,1.0,0.0,3,4,,Finance,26,FINA333,unknown
+Finance,2024,MGMT207,Corporate Finance,2.0,1.0,0.0,3,5,,Finance,27,MGMT207,unknown
+Finance,2024,MGMT209,Finacial Statement Analysis,2.0,1.0,0.0,3,5,,Finance,28,MGMT209,unknown
+Finance,2024,MGMT210,Basics of Investment Management,2.0,2.0,0.0,4,6,,Finance,29,MGMT210,unknown
+Finance,2024,MGMT323,Basics of Startup Finance,3.0,1.0,0.0,4,6,,Finance,30,MGMT323,unknown
+Finance,2024,MGMT213,Introduction To Fintech,1.0,1.0,0.0,2,7,,Finance,31,MGMT213,unknown
+Finance,2024,MGMT307,Strategy & Decision Making,1.0,1.0,0.0,2,7,,Finance,32,MGMT307,unknown
+Finance,2025,MGMT330,Introduction to Financial Accounting (R ),3.0,1.0,0.0,4,3,,Finance,36,MGMT330,unknown
+Finance,2025,NEW,Financial Institutions Markets & Services with Fintech (GIVE NEW NAME),,,,4,4,,Finance,37,New,unknown
+Finance,2025,NEW,Corporate Finance New Name,,,,4,5,,Finance,38,New,unknown
+Finance,2025,MGMT210,Basics of Investment Management,2.0,2.0,0.0,4,6,,Finance,39,MGMT210,unknown
+Finance,2025,MGMT213,Introduction To Fintech,1.0,1.0,0.0,2,6,,Finance,40,MGMT213,unknown
+Finance,2025,MGMT323,Basics of Startup Finance,2.0,2.0,0.0,4,7,,Finance,41,MGMT323,unknown
+Finance,2026,MGMT330,Introduction to Financial Accounting (R),3.0,1.0,0.0,4,3,,Finance,46,MGMT330,unknown
+Marketing,2022,DON’T KNOW,Marketing Management,2.0,1.0,0.0,3,3,,Marketing,4,DON’T KNOW,unknown
+Marketing,2022,MGMT302,Digital and Ecommerce Marketing,2.0,2.0,0.0,4,4,,Marketing,5,MGMT302,unknown
+Marketing,2022,MGMT304,Integrated Marketing Communications,2.0,1.0,0.0,3,5,,Marketing,6,MGMT304,unknown
+Marketing,2022,MGMT314,Sales and distribution management,2.0,2.0,0.0,4,6,,Marketing,7,MGMT314,unknown
+Marketing,2022,MGMT320,Marketing Analytics,1.0,1.0,0.0,2,7,,Marketing,8,MGMT320,unknown
+Marketing,2022,MGMT305,Services Marketing,2.0,1.0,0.0,3,7,,Marketing,9,MGMT305,unknown
+Marketing,2022,MGMT211,Brand Management,2.0,1.0,0.0,3,7,,Marketing,10,MGMT211,unknown
+Marketing,2022,MGMT203,Business Strategy Simulation,0.0,0.0,0.0,2,7,,Marketing,11,MGMT203,unknown
+Marketing,2023,MKTG201,Marketing Management,2.0,1.0,0.0,3,3,,Marketing,15,MKTG201,unknown
+Marketing,2023,MGMT302,Digital and Ecommerce Marketing,2.0,2.0,0.0,4,4,,Marketing,16,MGMT302,unknown
+Marketing,2023,MGMT304,Integrated Marketing Communications,2.0,1.0,0.0,3,5,,Marketing,17,MGMT304,unknown
+Marketing,2023,MGMT314,Sales and Distribution Management,2.0,2.0,0.0,4,6,,Marketing,18,MGMT314,unknown
+Marketing,2023,MGMT305,Services Marketing,2.0,1.0,0.0,3,6,,Marketing,19,MGMT305,unknown
+Marketing,2023,MGMT211,Brand Management,2.0,1.0,0.0,3,6,,Marketing,20,MGMT211,unknown
+Marketing,2023,MGMT320,Marketing Analytics,1.0,1.0,0.0,2,7,,Marketing,21,MGMT320,unknown
+Marketing,2023,MGMT307,Strategy & Decision Making,1.0,1.0,0.0,2,7,,Marketing,22,MGMT307,unknown
+Marketing,2024,MKTG201,Marketing Management,2.0,1.0,0.0,3,3,,Marketing,26,MKTG201,unknown
+Marketing,2024,MGMT302,Digital and Ecommerce Marketing,2.0,2.0,0.0,4,4,,Marketing,27,MGMT302,unknown
+Marketing,2024,MGMT305,Services Marketing,2.0,1.0,0.0,3,5,,Marketing,28,MGMT305,unknown
+Marketing,2024,MGMT304,Integrated Marketing Communications,2.0,1.0,0.0,3,5,,Marketing,29,MGMT304,unknown
+Marketing,2024,MGMT314,Sales and Distribution Management,2.0,2.0,0.0,4,6,,Marketing,30,MGMT314,unknown
+Marketing,2024,MGMT211,Brand Management,2.0,1.0,0.0,3,6,,Marketing,31,MGMT211,unknown
+Marketing,2024,MGMT320,Marketing Analytics,1.0,1.0,0.0,2,7,,Marketing,32,MGMT320,unknown
+Marketing,2024,MGMT307,Strategy & Decision Making,1.0,1.0,0.0,2,7,,Marketing,33,MGMT307,unknown
+Marketing,2025,MGMT328,Foundation of Marketing Management,2.0,2.0,0.0,4,3,,Marketing,37,MGMT328,unknown
+Marketing,2025,MGMT302,Digital and Ecommerce Marketing,2.0,1.0,0.0,4,4,,Marketing,38,MGMT302,unknown
+Marketing,2025,MGMT304,Integrated Marketing Communications,2.0,1.0,0.0,3,5,,Marketing,39,MGMT304,unknown
+Marketing,2025,NEW,Services Marketing,,,,4,5,,Marketing,40,New,unknown
+Marketing,2025,MGMT314,Sales and Distribution Management,2.0,2.0,0.0,4,6,,Marketing,41,MGMT314,unknown
+Marketing,2026,MGMT328,Foundations of Marketing Management,2.0,2.0,0.0,4,3,,Marketing,46,MGMT328,unknown
+Start-up,2024,MGMT326,Product Development,2.0,2.0,0.0,4,4,,Start-up,3,MGMT326,unknown
+Start-up,2024,MGMT336,Design Thinking for Entrepreneurship,2.0,1.0,2.0,4,5,,Start-up,4,MGMT336,unknown
+Start-up,2025,MGMT330,Introduction to Financial Accounting (R ),3.0,1.0,0.0,4,3,,Start-up,9,MGMT330,unknown
+Start-up,2025,MGMT328,Foundation of Marketing Management,2.0,2.0,0.0,4,3,,Start-up,10,MGMT328,unknown
+Start-up,2025,MGMT336,Design Thinking for Entrepreneurship,2.0,1.0,2.0,4,5,,Start-up,11,MGMT336,unknown
+Start-up,2025,MGMT213,Introduction To Fintech,1.0,1.0,0.0,2,6,,Start-up,12,MGMT213,unknown
