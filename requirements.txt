@@ -1,0 +1,23 @@
+streamlit
+pandas
+numpy
+scikit-learn
+pypdf
+python-docx
+openpyxl
+
+# Required hybrid-RAG stack (semantic + lexical retrieval)
+torch==2.9.1
+torchvision==0.24.1
+torchaudio==2.9.1
+sentence-transformers==5.1.1
+faiss-cpu
+
+langchain
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-openai
+langgraph
+google-genai
+openai
